@@ -28,10 +28,9 @@ def collect_articles():
         # Max amount of articles we are able to retrieve is 10,000 unless we incremently decrease pageSize
         # Change API key if needed in both URLs defined below
         if page_number == 100:
-            url = 'https://newsapi.org/v2/everything?sources=abc-news,al-jazeera-english,associated-press,bbc-news,bloomberg,buzzfeed,cbs-news,cnn,msnbc,nbc-news,the-politico,the-economist,the-huffington-post,the-new-york-times,the-wall-street-journal,the-washtington-post,usa-today&pageSize=99&page=' + str(page_number) + '&apiKey=f13ccf0bfb6443538be289855787b9f4'
+            url = 'https://newsapi.org/v2/everything?sources=abc-news,al-jazeera-english,associated-press,bbc-news,bloomberg,buzzfeed,cbs-news,cnn,msnbc,nbc-news,the-politico,the-economist,the-huffington-post,the-new-york-times,the-wall-street-journal,the-washtington-post,usa-today&pageSize=100&page=' + str(page_number) + '&q=bias%20OR%20education%20OR%20learning%20OR%20college%20OR%20university%20OR%20%22technology%20education%22%20OR%20%22career%20choice%22%20OR%20gap%20OR%20%22entrance%20exam%22%20OR%20%22standardized%20testing%22&apiKey=f13ccf0bfb6443538be289855787b9f4'
         else:
-            url = 'https://newsapi.org/v2/everything?sources=abc-news,al-jazeera-english,associated-press,bbc-news,bloomberg,buzzfeed,cbs-news,cnn,msnbc,nbc-news,the-politico,the-economist,the-huffington-post,the-new-york-times,the-wall-street-journal,the-washtington-post,usa-today&pageSize=100&page=' + str(page_number) + '&apiKey=f13ccf0bfb6443538be289855787b9f4'
-        response = requests.get(url)
+            url = 'https://newsapi.org/v2/everything?sources=abc-news,al-jazeera-english,associated-press,bbc-news,bloomberg,buzzfeed,cbs-news,cnn,msnbc,nbc-news,the-politico,the-economist,the-huffington-post,the-new-york-times,the-wall-street-journal,the-washtington-post,usa-today&pageSize=100&page=' + str(page_number) + '&q=bias%20OR%20education%20OR%20learning%20OR%20college%20OR%20university%20OR%20%22technology%20education%22%20OR%20%22career%20choice%22%20OR%20gap%20OR%20%22entrance%20exam%22%20OR%20%22standardized%20testing%22&apiKey=f13ccf0bfb6443538be289855787b9f4'
         response = json.loads(response.text)
         # Add result of request to result list
         result.append(response)
