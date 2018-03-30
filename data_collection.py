@@ -6,13 +6,13 @@ class data_collection:
 
     def select_sources(self):
         sources = ""
-        print()
+        print ""
         print "Select Sources"
 
         sourceList = ["abcnews","al-jazeera-english","associated-press","bbc-news","bloomberg","cbs-news","cnn","msnbc","the-politico","the-economist","the-huffington-post","the-new-york-times","the-washtington-post"]
         for x in sourceList:
             curr_source = x
-            inputPrompt = "\t" + curr_source + ": "
+            inputPrompt = "\t" + curr_source + " (y/n): "
             if(str(raw_input(inputPrompt)) == 'y'):
                 if(sources != ""):
                     sources = sources + "," + curr_source
