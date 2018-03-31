@@ -1,0 +1,243 @@
+1 of 99 SUCCESS
+
+2 of 99 SUCCESS
+
+3 of 99 SUCCESS
+
+4 of 99 SUCCESS
+
+5 of 99 SUCCESS
+
+6 of 99 SUCCESS
+
+7 of 99 SUCCESS
+
+8 of 99 SUCCESS
+
+9 of 99 SUCCESS
+
+10 of 99 SUCCESS
+
+11 of 99 SUCCESS
+
+12 of 99 SUCCESS
+
+13 of 99 SUCCESS
+
+14 of 99 SUCCESS
+
+15 of 99 SUCCESS
+
+16 of 99 SUCCESS
+
+17 of 99 SUCCESS
+
+18 of 99 SUCCESS
+
+19 of 99 SUCCESS
+
+20 of 99 ***FAILURE*** 
+Reason Code: HTTP Error 403: Forbidden 
+http://www.huffingtonpost.com/entry/hbcu-museum-washington-dc_us_5ab143b0e4b0decad0449410 
+
+
+21 of 99 SUCCESS
+
+22 of 99 SUCCESS
+
+23 of 99 SUCCESS
+
+24 of 99 SUCCESS
+
+25 of 99 ***FAILURE*** 
+Reason Code: HTTP Error 403: Forbidden 
+https://www.huffingtonpost.com/entry/opinion-cuevas-afrolatino-health_us_5a6fd72ee4b00d0de22343eb 
+
+
+26 of 99 SUCCESS
+
+27 of 99 SUCCESS
+
+28 of 99 SUCCESS
+
+29 of 99 SUCCESS
+
+30 of 99 SUCCESS
+
+31 of 99 SUCCESS
+
+32 of 99 SUCCESS
+
+33 of 99 ***FAILURE*** 
+Reason Code: HTTP Error 403: Forbidden 
+https://www.huffingtonpost.com/entry/detroit-internet-teens_us_5abbfb34e4b06409775cc5ea 
+
+
+34 of 99 SUCCESS
+
+35 of 99 SUCCESS
+
+36 of 99 ***FAILURE*** 
+Reason Code: HTTP Error 403: Forbidden 
+https://www.huffingtonpost.com/entry/education-is-the-kindling-of-a-flame-how-to-reinvent_us_5a4ffec5e4b0ee59d41c0a9f 
+
+
+37 of 99 SUCCESS
+
+38 of 99 SUCCESS
+
+39 of 99 SUCCESS
+
+40 of 99 ***FAILURE*** 
+Reason Code: HTTP Error 403: Forbidden 
+http://www.huffingtonpost.com/entry/devos-lgbtq-discrimination-private-schools_us_5ab14474e4b054d118dd7cc8 
+
+
+41 of 99 ***FAILURE*** 
+Reason Code: HTTP Error 403: Forbidden 
+http://www.huffingtonpost.com/entry/automation-displaces-women-jobs_us_5a671ba8e4b0e5630073361e 
+
+
+42 of 99 ***FAILURE*** 
+Reason Code: HTTP Error 403: Forbidden 
+https://www.huffingtonpost.com/entry/automation-displaces-women-jobs_us_5a671ba8e4b0e5630073361e 
+
+
+43 of 99 SUCCESS
+
+44 of 99 ***FAILURE*** 
+Reason Code: HTTP Error 403: Forbidden 
+https://www.huffingtonpost.com/entry/no-child-left-behind-anniversary_us_5a538591e4b003133eca7a05 
+
+
+45 of 99 SUCCESS
+
+46 of 99 SUCCESS
+
+47 of 99 ***FAILURE*** 
+Reason Code: HTTP Error 403: Forbidden 
+http://www.huffingtonpost.com/entry/racial-harassment-in-schools-uptick_us_5a8db498e4b03414379cae76 
+
+
+48 of 99 SUCCESS
+
+49 of 99 SUCCESS
+
+50 of 99 SUCCESS
+
+51 of 99 SUCCESS
+
+52 of 99 SUCCESS
+
+53 of 99 SUCCESS
+
+54 of 99 SUCCESS
+
+55 of 99 SUCCESS
+
+56 of 99 SUCCESS
+
+57 of 99 SUCCESS
+
+58 of 99 SUCCESS
+
+59 of 99 SUCCESS
+
+60 of 99 SUCCESS
+
+61 of 99 SUCCESS
+
+62 of 99 SUCCESS
+
+63 of 99 SUCCESS
+
+64 of 99 SUCCESS
+
+65 of 99 SUCCESS
+
+66 of 99 SUCCESS
+
+67 of 99 SUCCESS
+
+68 of 99 SUCCESS
+
+69 of 99 SUCCESS
+
+70 of 99 SUCCESS
+
+71 of 99 SUCCESS
+
+72 of 99 SUCCESS
+
+73 of 99 SUCCESS
+
+74 of 99 SUCCESS
+
+75 of 99 ***FAILURE*** 
+Reason Code: HTTP Error 403: Forbidden 
+https://www.huffingtonpost.com/entry/transgender-student-bathrooms_us_5a81c443e4b0c6726e15d2bb 
+
+
+76 of 99 SUCCESS
+
+77 of 99 ***FAILURE*** 
+Reason Code: 'ascii' codec can't decode byte 0xe2 in position 75: ordinal not in range(128) 
+https://www.economist.com/news/britain/21739671-third-its-schools-have-taken-part-randomised-controlled-trials-struggle-getting 
+
+
+78 of 99 SUCCESS
+
+79 of 99 SUCCESS
+
+80 of 99 ***FAILURE*** 
+Reason Code: HTTP Error 403: Forbidden 
+http://www.huffingtonpost.com/entry/transgender-student-bathrooms_us_5a81c443e4b0c6726e15d2bb 
+
+
+81 of 99 SUCCESS
+
+82 of 99 SUCCESS
+
+83 of 99 SUCCESS
+
+84 of 99 SUCCESS
+
+85 of 99 SUCCESS
+
+86 of 99 ***FAILURE*** 
+Reason Code: HTTP Error 403: Forbidden 
+http://www.huffingtonpost.com/entry/national-walkout-bronx-school-violence_us_5aa9704ee4b0004c0406b8ea 
+
+
+87 of 99 SUCCESS
+
+88 of 99 ***FAILURE*** 
+Reason Code: HTTP Error 403: Forbidden 
+https://www.huffingtonpost.com/entry/opinion-tracyramirez-metcalf-reporting-harassment_us_5aaa8948e4b045cd0a6f6333 
+
+
+89 of 99 ***FAILURE*** 
+Reason Code: HTTP Error 403: Forbidden 
+https://www.huffingtonpost.com/entry/opinion-robins-opioids-past_us_5aa677f4e4b07047bec85a29 
+
+
+90 of 99 SUCCESS
+
+91 of 99 SUCCESS
+
+92 of 99 SUCCESS
+
+93 of 99 SUCCESS
+
+94 of 99 SUCCESS
+
+95 of 99 SUCCESS
+
+96 of 99 SUCCESS
+
+97 of 99 SUCCESS
+
+98 of 99 SUCCESS
+
+99 of 99 SUCCESS
+
