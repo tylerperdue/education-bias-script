@@ -12,7 +12,7 @@ class api_gen:
     def importKeys(self):
         while True:
             try:
-                self.tel = json.load(open("apiKeys.txt"))
+                self.tel = json.load(open("apiKeys.json"))
                 break
             except IOError:
                 print "No Data Input"
@@ -21,7 +21,7 @@ class api_gen:
                 break
 
     def exportKeys(self):
-        json.dump(self.tel, open("apiKeys.txt", 'w'))
+        json.dump(self.tel, open("apiKeys.json", 'w'))
 
     def addKey(self, label, key):
         self.tel[label] = key

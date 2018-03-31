@@ -1,5 +1,7 @@
 import json
 import requests
+
+
 class data_collection:
     def __init__(self):  # this method creates the class object.
         pass
@@ -9,19 +11,19 @@ class data_collection:
         print ""
         print "Select Sources"
 
-        sourceList = ["abcnews","al-jazeera-english","associated-press","bbc-news","bloomberg","cbs-news","cnn","msnbc","the-politico","the-economist","the-huffington-post","the-new-york-times","the-washtington-post"]
+        sourceList = ["abcnews", "al-jazeera-english", "associated-press", "bbc-news", "bloomberg", "cbs-news", "cnn",
+                      "msnbc", "the-politico", "the-economist", "the-huffington-post", "the-new-york-times",
+                      "the-washtington-post"]
         for x in sourceList:
             curr_source = x
             inputPrompt = "\t" + curr_source + " (y/n): "
-            if(str(raw_input(inputPrompt)) == 'y'):
-                if(sources != ""):
+            if (str(raw_input(inputPrompt)) == 'y'):
+                if (sources != ""):
                     sources = sources + "," + curr_source
                 else:
                     sources = sources + curr_source
 
         return sources
-
-
 
     def collect_articles(self, numPages, apiKey):
         # Returns json data for articles matching bias keywords
@@ -42,7 +44,7 @@ class data_collection:
         # page_number represents a page of results, we change the page in the request to get other articles
         page_number = 1
         # outputed json file that will be added to as articles are parsed, each article will be a dictionary object containing source, title, and url
-        data = {'articles' : []}
+        data = {'articles': []}
         while page_number <= numPages:
             print "Page: " + str(page_number)
             # 100 Requests - Limited to 1000 Requests Per Day.
@@ -51,9 +53,11 @@ class data_collection:
             # Max amount of articles we are able to retrieve is 10,000 unless we incremently decrease pageSize
             # Change API key if needed in both URLs defined below
             if page_number == numPages:
-                url = 'https://newsapi.org/v2/everything?sources=' + sourceList + '&pageSize=99&page=' + str(page_number) + '&q=bias%20OR%20education%20OR%20learning%20OR%20college%20OR%20university%20OR%20%22technology%20education%22%20OR%20%22career%20choice%22%20OR%20gap%20OR%20%22entrance%20exam%22%20OR%20%22standardized%20testing%22&apiKey=' + apiKey
+                url = 'https://newsapi.org/v2/everything?sources=' + sourceList + '&pageSize=99&page=' + str(
+                    page_number) + '&q=bias%20OR%20education%20OR%20learning%20OR%20college%20OR%20university%20OR%20%22technology%20education%22%20OR%20%22career%20choice%22%20OR%20gap%20OR%20%22entrance%20exam%22%20OR%20%22standardized%20testing%22&apiKey=' + apiKey
             else:
-                url = 'https://newsapi.org/v2/everything?sources=' + sourceList + '&pageSize=100&page=' + str(page_number) + '&q=bias%20OR%20education%20OR%20learning%20OR%20college%20OR%20university%20OR%20%22technology%20education%22%20OR%20%22career%20choice%22%20OR%20gap%20OR%20%22entrance%20exam%22%20OR%20%22standardized%20testing%22&apiKey=' + apiKey
+                url = 'https://newsapi.org/v2/everything?sources=' + sourceList + '&pageSize=100&page=' + str(
+                    page_number) + '&q=bias%20OR%20education%20OR%20learning%20OR%20college%20OR%20university%20OR%20%22technology%20education%22%20OR%20%22career%20choice%22%20OR%20gap%20OR%20%22entrance%20exam%22%20OR%20%22standardized%20testing%22&apiKey=' + apiKey
             response = requests.get(url)
             response = json.loads(response.text)
             # Add result of request to result list
@@ -77,8 +81,3 @@ class data_collection:
         print "Finished Collecting Articles from News API."
         print str(counter) + " total articles collected."
         return json_data
-
-
-
-
-
