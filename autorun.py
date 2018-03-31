@@ -9,15 +9,23 @@ print ""
 
 # API Key Selection
 apiKeys = api_gen()
-apiKeys.printAllKeys()
 key_repeat = True
 while key_repeat:
     try:
-        currentAPIKey = apiKeys.getKey(str(raw_input("\nSelect an API Key: ")))
-        key_repeat = False
-    except KeyError as ke:
-        print "\n***Invalid Selection***\n"
         apiKeys.printAllKeys()
+        currentAPIKey = raw_input("\nSelect an API Key (KeyName|add): ")
+        if currentAPIKey == 'add':
+            print '\nAdd an API Key'
+            title = raw_input('\tTitle: ')
+            key = raw_input('\tKey: ')
+            apiKeys.addKey(title, key)
+            print "\n***API Key Added***\n"
+        else:
+            currentAPIKey = apiKeys.getKey(str(currentAPIKey))
+            key_repeat = False
+    except Exception as ke:
+        print "\n***Invalid Selection***\n"
+
 
 # Data Collection Module
 inputPrompt = "\nRun Data Collection Module (y/n):"
