@@ -10,8 +10,14 @@ print ""
 # API Key Selection
 apiKeys = api_gen()
 apiKeys.printAllKeys()
-print ""
-currentAPIKey = apiKeys.getKey(str(raw_input("Select an API Key: ")))
+key_repeat = True
+while key_repeat:
+    try:
+        currentAPIKey = apiKeys.getKey(str(raw_input("\nSelect an API Key: ")))
+        key_repeat = False
+    except KeyError as ke:
+        print "\n***Invalid Selection***\n"
+        apiKeys.printAllKeys()
 
 # Data Collection Module
 inputPrompt = "\nRun Data Collection Module (y/n):"
@@ -19,6 +25,7 @@ if (str(raw_input(inputPrompt)) == 'y'):
     data = data_collection()
     article_batches = int(raw_input("\tNumber of Article Batches: "))
     data_export = data.collect_articles(article_batches, currentAPIKey)
+    print 'Exporting Articles to /data_collection.json'
     json.dump(data_export, open("data_collection.json", 'wt'))
 else:
     print "Loading Cached Datafile (data_collection.json)"  # Imports Previous JSON Data
@@ -29,6 +36,7 @@ inputPrompt = "\nRun Crawler Module (y/n):"
 if (str(raw_input(inputPrompt)) == 'y'):
     crawler = news_crawler()
     crawler_export = crawler.crawl_articles(data_export)
+    print 'Exporting Articles to /crawler_export.json'
     json.dump(crawler_export, open("crawler_export.json", 'w'))
 else:
     print ""
