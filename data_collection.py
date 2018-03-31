@@ -4,7 +4,23 @@ import requests
 
 class data_collection:
     def __init__(self):  # this method creates the class object.
+        self.verbose = 'n'
+        self.keywords = ''
         pass
+
+    def get_keywords(self):
+        file = open('keywords.txt', 'rt')
+        keyword_string = ""
+        first = True
+        for x in file:
+            term = x.replace(" ", "%20")
+            if first:
+                keyword_string = keyword_string + term
+                first = False
+            else:
+                keyword_string = keyword_string + '%20OR%20' + term
+        self.keywords = keyword_string
+
 
     def select_sources(self):
         sources = ""
@@ -43,6 +59,8 @@ class data_collection:
 
         # page_number represents a page of results, we change the page in the request to get other articles
         page_number = 1
+        # keywords are pulled and parsed from text file
+        self.get_keywords()
         # outputed json file that will be added to as articles are parsed, each article will be a dictionary object containing source, title, and url
         data = {'articles': []}
         while page_number <= numPages:
@@ -50,14 +68,14 @@ class data_collection:
             # 100 Requests - Limited to 1000 Requests Per Day.
             # Returns a maximum of 100 articles per request using the pageSize=100 parameter.
             # Have to increment page number in order to gather all results, limited buffer size of 10,000
-            # Max amount of articles we are able to retrieve is 10,000 unless we incremently decrease pageSize
+            # Max amount of articles we are able to retrieve is 10,000 unless we incrementally decrease pageSize
             # Change API key if needed in both URLs defined below
             if page_number == numPages:
                 url = 'https://newsapi.org/v2/everything?sources=' + sourceList + '&pageSize=99&page=' + str(
-                    page_number) + '&q=bias%20OR%20education%20OR%20learning%20OR%20college%20OR%20university%20OR%20%22technology%20education%22%20OR%20%22career%20choice%22%20OR%20gap%20OR%20%22entrance%20exam%22%20OR%20%22standardized%20testing%22&apiKey=' + apiKey
+                    page_number) + '&q=' + self.keywords + '&apiKey=' + apiKey
             else:
                 url = 'https://newsapi.org/v2/everything?sources=' + sourceList + '&pageSize=100&page=' + str(
-                    page_number) + '&q=bias%20OR%20education%20OR%20learning%20OR%20college%20OR%20university%20OR%20%22technology%20education%22%20OR%20%22career%20choice%22%20OR%20gap%20OR%20%22entrance%20exam%22%20OR%20%22standardized%20testing%22&apiKey=' + apiKey
+                    page_number) + '&q=&apiKey=' + apiKey
             response = requests.get(url)
             response = json.loads(response.text)
             # Add result of request to result list
@@ -68,7 +86,8 @@ class data_collection:
                 for article in response['articles']:
                     counter = counter + 1
                     # Prints name of source and the titel of the article
-                    print article['source']['name'], article['title']
+                    if self.verbose == 'y':
+                        print article['source']['name'], article['title']
                     # Add article to ouput
                     article = {'source': article['source']['name'], 'title': article['title'], 'url': article['url']}
                     data['articles'].append(article)
