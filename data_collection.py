@@ -29,7 +29,7 @@ class data_collection:
 
         sourceList = ["abcnews", "al-jazeera-english", "associated-press", "bbc-news", "bloomberg", "cbs-news", "cnn",
                       "msnbc", "the-politico", "the-economist", "the-huffington-post", "the-new-york-times",
-                      "the-washtington-post"]
+                      "the-washington-post"]
         for x in sourceList:
             curr_source = x
             inputPrompt = "\t" + curr_source + " (y/n): "
