@@ -112,7 +112,7 @@ class news_crawler:
                     titleContainer = titleContainer[0]
                     articleContainer = page_soup.findAll('div', {'class': 'blog-post__text'})
 
-                elif (newsName[1] == 'huffingtonpost'):
+                elif (newsName[1] == 'huffingtonpost'):  # Keeps giving 403 Error
                     titleContainer = page_soup.findAll('h1', {'class': 'headline__title'})
                     articleContainer = page_soup.findAll('div',
                                                          {'class': 'entry__text js-entry-text bn-entry-text yr-entry-text'})
@@ -166,6 +166,8 @@ class news_crawler:
         str = str.replace('#', '')
         str = str.replace(' d ', ' ')
         str = str.replace('  ', ' ')
+        str = str.replace('[', '')
+        str = str.replace(']', '')
         return str
 
 

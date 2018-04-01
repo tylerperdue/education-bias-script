@@ -33,8 +33,13 @@ if (str(raw_input(inputPrompt)) == 'y'):
     data = data_collection()
     article_batches = int(raw_input("\tNumber of Article Batches: "))
     data_export = data.collect_articles(article_batches, currentAPIKey)
+    # Export Data to File
     print 'Exporting Articles to /data_collection.json'
-    json.dump(data_export, open("data_collection.json", 'wt'))
+    j = data_export
+    f = open('data_collection.json', 'w')
+    print >> f, j
+    f.close()
+
 else:
     print "Loading Cached Datafile (data_collection.json)"  # Imports Previous JSON Data
     data_export = json.load(open("data_collection.json"))
@@ -44,7 +49,12 @@ inputPrompt = "\nRun Crawler Module (y/n):"
 if (str(raw_input(inputPrompt)) == 'y'):
     crawler = news_crawler()
     crawler_export = crawler.crawl_articles(data_export)
+    #Export Data to File
     print 'Exporting Articles to /crawler_export.json'
-    json.dump(crawler_export, open("crawler_export.json", 'w'))
+    j = crawler_export
+    f = open('crawler_export.json', 'w')
+    print >> f, j
+    f.close()
 else:
     print ""
+
