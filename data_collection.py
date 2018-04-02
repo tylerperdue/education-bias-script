@@ -96,7 +96,7 @@ class data_collection:
             page_number = page_number + 1
         json_data = json.dumps(data)
         with open('web_sources.json', 'w') as outfile:
-            json.dump(data, outfile)
+            json.dump(data, outfile, indent=4, sort_keys=True)
         print "Finished Collecting Articles from News API."
         print str(counter) + " total articles collected."
         return json_data

@@ -154,7 +154,7 @@ class news_crawler:
                 print >> status_file, counter, 'of', len(articles['articles']), '***FAILURE***', '\nReason Code:', a, '\n', str(
                     x['url']), '\n'
 
-        json_data = json.dumps(data, sort_keys=True, indent=3)
+        json_data = json.dumps(data, sort_keys=True, indent=4)
         status_file.close()
         # return a json string
         return json_data
