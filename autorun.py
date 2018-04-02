@@ -2,6 +2,7 @@ import json
 from api_gen import api_gen
 from data_collection import data_collection
 from news_crawler import news_crawler
+from word_tools import word_tools
 
 print ""
 print "***Welcome to Edu Bias News Crawler***"
@@ -39,7 +40,7 @@ if (str(raw_input(inputPrompt)) == 'y'):
     f = open('data_collection.json', 'w')
     print >> f, j
     f.close()
-
+    data_export = json.load(open("data_collection.json"))
 else:
     print "Loading Cached Datafile (data_collection.json)"  # Imports Previous JSON Data
     data_export = json.load(open("data_collection.json"))
@@ -55,6 +56,19 @@ if (str(raw_input(inputPrompt)) == 'y'):
     f = open('crawler_export.json', 'w')
     print >> f, j
     f.close()
+    crawler_export = json.load(open("crawler_export.json"))
 else:
-    print ""
+    print "Loading Cached Datafile (crawler_export.json)"  # Imports Previous JSON Data
+    crawler_export = json.load(open("crawler_export.json"))
 
+# Word Tools Module
+inputPrompt = "\nRun Word Tools Module (y/n):"
+if str(raw_input(inputPrompt)) == 'y':
+    word_tools = word_tools()
+    t = word_tools.textToWordCount(crawler_export)
+    t = json.dumps(t, indent=4, sort_keys=True)
+    print 'Exporting Articles to /word_count_export.json'
+    j = t
+    f = open('word_count_export.json', 'w')
+    print >> f, j
+    f.close()

@@ -1,1146 +1,198 @@
-1 of 499 SUCCESS
+1 of 99 SUCCESS
 
-2 of 499 SUCCESS
+2 of 99 SUCCESS
 
-3 of 499 SUCCESS
+3 of 99 SUCCESS
 
-4 of 499 SUCCESS
+4 of 99 SUCCESS
 
-5 of 499 SUCCESS
+5 of 99 SUCCESS
 
-6 of 499 SUCCESS
+6 of 99 SUCCESS
 
-7 of 499 SUCCESS
+7 of 99 SUCCESS
 
-8 of 499 SUCCESS
+8 of 99 SUCCESS
 
-9 of 499 SUCCESS
+9 of 99 SUCCESS
 
-10 of 499 SUCCESS
+10 of 99 SUCCESS
 
-11 of 499 SUCCESS
+11 of 99 SUCCESS
 
-12 of 499 SUCCESS
+12 of 99 SUCCESS
 
-13 of 499 SUCCESS
+13 of 99 SUCCESS
 
-14 of 499 SUCCESS
+14 of 99 SUCCESS
 
-15 of 499 SUCCESS
+15 of 99 SUCCESS
 
-16 of 499 SUCCESS
+16 of 99 SUCCESS
 
-17 of 499 SUCCESS
+17 of 99 SUCCESS
 
-18 of 499 SUCCESS
+18 of 99 SUCCESS
 
-19 of 499 SUCCESS
+19 of 99 SUCCESS
 
-20 of 499 SUCCESS
+20 of 99 SUCCESS
 
-21 of 499 SUCCESS
+21 of 99 SUCCESS
 
-22 of 499 SUCCESS
+22 of 99 SUCCESS
 
-23 of 499 SUCCESS
+23 of 99 SUCCESS
 
-24 of 499 SUCCESS
+24 of 99 SUCCESS
 
-25 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/hbcu-museum-washington-dc_us_5ab143b0e4b0decad0449410 
+25 of 99 SUCCESS
 
-26 of 499 SUCCESS
+26 of 99 SUCCESS
 
-27 of 499 SUCCESS
+27 of 99 SUCCESS
 
-28 of 499 SUCCESS
+28 of 99 SUCCESS
 
-29 of 499 SUCCESS
+29 of 99 SUCCESS
 
-30 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/opinion-cuevas-afrolatino-health_us_5a6fd72ee4b00d0de22343eb 
+30 of 99 SUCCESS
 
-31 of 499 SUCCESS
+31 of 99 SUCCESS
 
-32 of 499 SUCCESS
+32 of 99 SUCCESS
 
-33 of 499 SUCCESS
+33 of 99 SUCCESS
 
-34 of 499 SUCCESS
+34 of 99 SUCCESS
 
-35 of 499 SUCCESS
+35 of 99 SUCCESS
 
-36 of 499 SUCCESS
+36 of 99 SUCCESS
 
-37 of 499 SUCCESS
+37 of 99 SUCCESS
 
-38 of 499 SUCCESS
+38 of 99 SUCCESS
 
-39 of 499 SUCCESS
+39 of 99 SUCCESS
 
-40 of 499 SUCCESS
+40 of 99 SUCCESS
 
-41 of 499 SUCCESS
+41 of 99 SUCCESS
 
-42 of 499 SUCCESS
+42 of 99 SUCCESS
 
-43 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/education-is-the-kindling-of-a-flame-how-to-reinvent_us_5a4ffec5e4b0ee59d41c0a9f 
+43 of 99 SUCCESS
 
-44 of 499 SUCCESS
+44 of 99 SUCCESS
 
-45 of 499 SUCCESS
+45 of 99 SUCCESS
 
-46 of 499 SUCCESS
+46 of 99 SUCCESS
 
-47 of 499 SUCCESS
+47 of 99 SUCCESS
 
-48 of 499 SUCCESS
+48 of 99 SUCCESS
 
-49 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/devos-lgbtq-discrimination-private-schools_us_5ab14474e4b054d118dd7cc8 
+49 of 99 SUCCESS
 
-50 of 499 SUCCESS
+50 of 99 SUCCESS
 
-51 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/automation-displaces-women-jobs_us_5a671ba8e4b0e5630073361e 
+51 of 99 SUCCESS
 
-52 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/automation-displaces-women-jobs_us_5a671ba8e4b0e5630073361e 
+52 of 99 SUCCESS
 
-53 of 499 SUCCESS
+53 of 99 SUCCESS
 
-54 of 499 SUCCESS
+54 of 99 SUCCESS
 
-55 of 499 SUCCESS
+55 of 99 SUCCESS
 
-56 of 499 SUCCESS
+56 of 99 SUCCESS
 
-57 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/no-child-left-behind-anniversary_us_5a538591e4b003133eca7a05 
+57 of 99 SUCCESS
 
-58 of 499 SUCCESS
+58 of 99 SUCCESS
 
-59 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 404: Not Found 
-https://www.washingtonpost.com/world/middle_east/poll-deep-partisan-divide-among-americans-over-israel/2018/01/23/b56aaa3c-0046-11e8-86b9-8908743c79dd_story.html 
+59 of 99 SUCCESS
 
-60 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/racial-harassment-in-schools-uptick_us_5a8db498e4b03414379cae76 
+60 of 99 SUCCESS
 
-61 of 499 SUCCESS
+61 of 99 SUCCESS
 
-62 of 499 SUCCESS
+62 of 99 SUCCESS
 
-63 of 499 SUCCESS
+63 of 99 SUCCESS
 
-64 of 499 SUCCESS
+64 of 99 SUCCESS
 
-65 of 499 SUCCESS
+65 of 99 SUCCESS
 
-66 of 499 SUCCESS
+66 of 99 SUCCESS
 
-67 of 499 SUCCESS
+67 of 99 SUCCESS
 
-68 of 499 SUCCESS
+68 of 99 SUCCESS
 
-69 of 499 SUCCESS
+69 of 99 SUCCESS
 
-70 of 499 SUCCESS
+70 of 99 SUCCESS
 
-71 of 499 SUCCESS
+71 of 99 SUCCESS
 
-72 of 499 SUCCESS
+72 of 99 SUCCESS
 
-73 of 499 SUCCESS
+73 of 99 SUCCESS
 
-74 of 499 SUCCESS
+74 of 99 SUCCESS
 
-75 of 499 SUCCESS
+75 of 99 SUCCESS
 
-76 of 499 SUCCESS
+76 of 99 SUCCESS
 
-77 of 499 SUCCESS
+77 of 99 SUCCESS
 
-78 of 499 SUCCESS
+78 of 99 SUCCESS
 
-79 of 499 SUCCESS
+79 of 99 SUCCESS
 
-80 of 499 SUCCESS
+80 of 99 SUCCESS
 
-81 of 499 SUCCESS
+81 of 99 SUCCESS
 
-82 of 499 SUCCESS
+82 of 99 SUCCESS
 
-83 of 499 SUCCESS
+83 of 99 SUCCESS
 
-84 of 499 SUCCESS
+84 of 99 SUCCESS
 
-85 of 499 SUCCESS
+85 of 99 SUCCESS
 
-86 of 499 SUCCESS
+86 of 99 SUCCESS
 
-87 of 499 SUCCESS
+87 of 99 SUCCESS
 
-88 of 499 SUCCESS
+88 of 99 SUCCESS
 
-89 of 499 SUCCESS
+89 of 99 SUCCESS
 
-90 of 499 SUCCESS
+90 of 99 SUCCESS
 
-91 of 499 SUCCESS
+91 of 99 SUCCESS
 
-92 of 499 SUCCESS
+92 of 99 SUCCESS
 
-93 of 499 SUCCESS
+93 of 99 SUCCESS
 
-94 of 499 SUCCESS
+94 of 99 SUCCESS
 
-95 of 499 SUCCESS
+95 of 99 SUCCESS
 
-96 of 499 SUCCESS
+96 of 99 SUCCESS
 
-97 of 499 SUCCESS
+97 of 99 SUCCESS
 
-98 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/transgender-student-bathrooms_us_5a81c443e4b0c6726e15d2bb 
+98 of 99 SUCCESS
 
-99 of 499 ***FAILURE*** 
-Reason Code: 'ascii' codec can't decode byte 0xe2 in position 75: ordinal not in range(128) 
-https://www.economist.com/news/britain/21739671-third-its-schools-have-taken-part-randomised-controlled-trials-struggle-getting 
-
-100 of 499 SUCCESS
-
-101 of 499 SUCCESS
-
-102 of 499 SUCCESS
-
-103 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/transgender-student-bathrooms_us_5a81c443e4b0c6726e15d2bb 
-
-104 of 499 SUCCESS
-
-105 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/national-walkout-bronx-school-violence_us_5aa9704ee4b0004c0406b8ea 
-
-106 of 499 SUCCESS
-
-107 of 499 SUCCESS
-
-108 of 499 SUCCESS
-
-109 of 499 SUCCESS
-
-110 of 499 SUCCESS
-
-111 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/opinion-tracyramirez-metcalf-reporting-harassment_us_5aaa8948e4b045cd0a6f6333 
-
-112 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/opinion-robins-opioids-past_us_5aa677f4e4b07047bec85a29 
-
-113 of 499 SUCCESS
-
-114 of 499 SUCCESS
-
-115 of 499 SUCCESS
-
-116 of 499 SUCCESS
-
-117 of 499 SUCCESS
-
-118 of 499 SUCCESS
-
-119 of 499 SUCCESS
-
-120 of 499 SUCCESS
-
-121 of 499 SUCCESS
-
-122 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/transgender-bathrooms_us_5abe4f28e4b0f112dc9bbe8d 
-
-123 of 499 SUCCESS
-
-124 of 499 SUCCESS
-
-125 of 499 SUCCESS
-
-126 of 499 ***FAILURE*** 
-Reason Code: 'ascii' codec can't decode byte 0xe2 in position 63: ordinal not in range(128) 
-https://www.economist.com/blogs/democracyinamerica/2018/03/possible-progress-0 
-
-127 of 499 SUCCESS
-
-128 of 499 SUCCESS
-
-129 of 499 SUCCESS
-
-130 of 499 SUCCESS
-
-131 of 499 SUCCESS
-
-132 of 499 SUCCESS
-
-133 of 499 SUCCESS
-
-134 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/opinion-etow-gonzalez-delavega-hardening-schools_us_5ab55b6ce4b054d118e2c139 
-
-135 of 499 SUCCESS
-
-136 of 499 SUCCESS
-
-137 of 499 SUCCESS
-
-138 of 499 SUCCESS
-
-139 of 499 SUCCESS
-
-140 of 499 SUCCESS
-
-141 of 499 SUCCESS
-
-142 of 499 SUCCESS
-
-143 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/readers-white-nationalist-teacher-is-why-we-shouldnt-put-firearms-in-classrooms_us_5aa91c38e4b001c8bf15af3b 
-
-144 of 499 SUCCESS
-
-145 of 499 SUCCESS
-
-146 of 499 SUCCESS
-
-147 of 499 SUCCESS
-
-148 of 499 SUCCESS
-
-149 of 499 SUCCESS
-
-150 of 499 SUCCESS
-
-151 of 499 SUCCESS
-
-152 of 499 SUCCESS
-
-153 of 499 SUCCESS
-
-154 of 499 SUCCESS
-
-155 of 499 SUCCESS
-
-156 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/msu-larry-nassar-education-department-investigation_us_5a945ae7e4b0699553cb1908 
-
-157 of 499 SUCCESS
-
-158 of 499 SUCCESS
-
-159 of 499 SUCCESS
-
-160 of 499 SUCCESS
-
-161 of 499 SUCCESS
-
-162 of 499 SUCCESS
-
-163 of 499 SUCCESS
-
-164 of 499 SUCCESS
-
-165 of 499 SUCCESS
-
-166 of 499 SUCCESS
-
-167 of 499 SUCCESS
-
-168 of 499 SUCCESS
-
-169 of 499 SUCCESS
-
-170 of 499 SUCCESS
-
-171 of 499 SUCCESS
-
-172 of 499 SUCCESS
-
-173 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/exercise-to-improve-kids-brains_us_5a8da4f1e4b0d2548d37c4c2 
-
-174 of 499 SUCCESS
-
-175 of 499 ***FAILURE*** 
-Reason Code: IncompleteRead(1862 bytes read) 
-https://www.msnbc.com/morning-joe/watch/disagreement-but-no-democratic-divide-rep-brendan-boyle-1157614659885 
-
-176 of 499 SUCCESS
-
-177 of 499 SUCCESS
-
-178 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/a-different-kind-of-gender-gap-seven-places-where_us_5aa96b69e4b00a0ab2f587f2 
-
-179 of 499 SUCCESS
-
-180 of 499 SUCCESS
-
-181 of 499 SUCCESS
-
-182 of 499 SUCCESS
-
-183 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/muslim-protesters-face-patriotism-questions_us_5a4f8e12e4b003133ec7585a 
-
-184 of 499 SUCCESS
-
-185 of 499 SUCCESS
-
-186 of 499 SUCCESS
-
-187 of 499 SUCCESS
-
-188 of 499 SUCCESS
-
-189 of 499 ***FAILURE*** 
-Reason Code: 'ascii' codec can't decode byte 0xc3 in position 93: ordinal not in range(128) 
-https://www.economist.com/news/europe/21736539-reforming-french-education-will-not-be-easy-emmanuel-macron-wants-change-beloved 
-
-190 of 499 SUCCESS
-
-191 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/opinion-rigueur-trump-diversity_us_5a68fe84e4b0e563007617ca 
-
-192 of 499 SUCCESS
-
-193 of 499 SUCCESS
-
-194 of 499 SUCCESS
-
-195 of 499 SUCCESS
-
-196 of 499 ***FAILURE*** 
-Reason Code: 'ascii' codec can't decode byte 0xe2 in position 44: ordinal not in range(128) 
-https://www.economist.com/blogs/economist-explains/2018/02/economist-explains-17 
-
-197 of 499 SUCCESS
-
-198 of 499 SUCCESS
-
-199 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/michelle-obama-international-womens-day_us_5aa149a4e4b002df2c619ecc 
-
-200 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/transgender-office-for-civil-rights_us_5a5688ade4b08a1f624b2144 
-
-201 of 499 SUCCESS
-
-202 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/opinion-martin-abortion-harassment_us_5a5e540fe4b0106b7f65ccc6 
-
-203 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/white-nationalist-dayanna-volitich-nothing-new_us_5aa03195e4b0e9381c14d05a 
-
-204 of 499 SUCCESS
-
-205 of 499 SUCCESS
-
-206 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/transgender-office-for-civil-rights_us_5a5688ade4b08a1f624b2144 
-
-207 of 499 SUCCESS
-
-208 of 499 SUCCESS
-
-209 of 499 SUCCESS
-
-210 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/trump-judicial-nominee-michael-brennan-racial-bias_us_5a68b41be4b002283008aa8d 
-
-211 of 499 SUCCESS
-
-212 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/trump-judicial-nominee-michael-brennan-racial-bias_us_5a68b41be4b002283008aa8d 
-
-213 of 499 SUCCESS
-
-214 of 499 SUCCESS
-
-215 of 499 SUCCESS
-
-216 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/betsy-devos-education-one-year_us_5a821ba6e4b0892a03520700 
-
-217 of 499 SUCCESS
-
-218 of 499 SUCCESS
-
-219 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/lebron-james-mlk-trump-racism_us_5a5d2555e4b04f3c55a52dce 
-
-220 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/ohio-down-syndrome-abortion-law_us_5a86a15fe4b004fc3190cdb0 
-
-221 of 499 SUCCESS
-
-222 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/womens-march-reflections_us_5a4fd28ee4b01e1a4b14f6bf 
-
-223 of 499 SUCCESS
-
-224 of 499 SUCCESS
-
-225 of 499 SUCCESS
-
-226 of 499 SUCCESS
-
-227 of 499 SUCCESS
-
-228 of 499 SUCCESS
-
-229 of 499 SUCCESS
-
-230 of 499 SUCCESS
-
-231 of 499 SUCCESS
-
-232 of 499 SUCCESS
-
-233 of 499 SUCCESS
-
-234 of 499 SUCCESS
-
-235 of 499 SUCCESS
-
-236 of 499 SUCCESS
-
-237 of 499 SUCCESS
-
-238 of 499 SUCCESS
-
-239 of 499 SUCCESS
-
-240 of 499 SUCCESS
-
-241 of 499 SUCCESS
-
-242 of 499 SUCCESS
-
-243 of 499 SUCCESS
-
-244 of 499 SUCCESS
-
-245 of 499 SUCCESS
-
-246 of 499 SUCCESS
-
-247 of 499 SUCCESS
-
-248 of 499 SUCCESS
-
-249 of 499 SUCCESS
-
-250 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/opinion-hopkinson-school-choice_us_5aa2cd35e4b01b9b0a3b2133 
-
-251 of 499 SUCCESS
-
-252 of 499 SUCCESS
-
-253 of 499 SUCCESS
-
-254 of 499 SUCCESS
-
-255 of 499 SUCCESS
-
-256 of 499 SUCCESS
-
-257 of 499 SUCCESS
-
-258 of 499 SUCCESS
-
-259 of 499 SUCCESS
-
-260 of 499 SUCCESS
-
-261 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/besty-devos-60-minutes_us_5aa5df73e4b086698a9f1117 
-
-262 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 404: Not Found 
-https://www.washingtonpost.com/world/europe/high-school-students-in-hungary-rally-for-modern-education/2018/01/19/e47c8348-fd3c-11e7-9b5d-bbf0da31214d_story.html 
-
-263 of 499 SUCCESS
-
-264 of 499 SUCCESS
-
-265 of 499 SUCCESS
-
-266 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/opinion-salas-pujols-black-latinos-census_us_5aa03347e4b002df2c603a9f 
-
-267 of 499 SUCCESS
-
-268 of 499 SUCCESS
-
-269 of 499 SUCCESS
-
-270 of 499 SUCCESS
-
-271 of 499 SUCCESS
-
-272 of 499 SUCCESS
-
-273 of 499 SUCCESS
-
-274 of 499 SUCCESS
-
-275 of 499 SUCCESS
-
-276 of 499 SUCCESS
-
-277 of 499 SUCCESS
-
-278 of 499 SUCCESS
-
-279 of 499 SUCCESS
-
-280 of 499 SUCCESS
-
-281 of 499 SUCCESS
-
-282 of 499 SUCCESS
-
-283 of 499 SUCCESS
-
-284 of 499 SUCCESS
-
-285 of 499 SUCCESS
-
-286 of 499 SUCCESS
-
-287 of 499 SUCCESS
-
-288 of 499 SUCCESS
-
-289 of 499 SUCCESS
-
-290 of 499 SUCCESS
-
-291 of 499 SUCCESS
-
-292 of 499 SUCCESS
-
-293 of 499 SUCCESS
-
-294 of 499 SUCCESS
-
-295 of 499 SUCCESS
-
-296 of 499 SUCCESS
-
-297 of 499 SUCCESS
-
-298 of 499 SUCCESS
-
-299 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 404: Not Found 
-https://www.washingtonpost.com/world/olympics/linguistic-divide-poses-problem-to-korea-olympic-hockey-team/2018/02/05/f2803fec-0a62-11e8-998c-96deb18cca19_story.html 
-
-300 of 499 SUCCESS
-
-301 of 499 SUCCESS
-
-302 of 499 SUCCESS
-
-303 of 499 SUCCESS
-
-304 of 499 SUCCESS
-
-305 of 499 SUCCESS
-
-306 of 499 SUCCESS
-
-307 of 499 SUCCESS
-
-308 of 499 SUCCESS
-
-309 of 499 SUCCESS
-
-310 of 499 SUCCESS
-
-311 of 499 SUCCESS
-
-312 of 499 SUCCESS
-
-313 of 499 SUCCESS
-
-314 of 499 SUCCESS
-
-315 of 499 SUCCESS
-
-316 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/cardi-b-defends-offset-queer-misses_us_5a6500c0e4b0e5630070d145 
-
-317 of 499 SUCCESS
-
-318 of 499 SUCCESS
-
-319 of 499 SUCCESS
-
-320 of 499 SUCCESS
-
-321 of 499 SUCCESS
-
-322 of 499 SUCCESS
-
-323 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 404: Not Found 
-https://www.washingtonpost.com/world/africa/cape-towns-water-crisis-highlights-citys-rich-poor-divide/2018/02/03/e64425e4-08c4-11e8-aa61-f3391373867e_story.html 
-
-324 of 499 SUCCESS
-
-325 of 499 SUCCESS
-
-326 of 499 SUCCESS
-
-327 of 499 SUCCESS
-
-328 of 499 SUCCESS
-
-329 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 404: Not Found 
-https://www.washingtonpost.com/national/religion/evangelical-rift-intensifies-over-trump-immigration-remarks/2018/01/13/feca53d8-f86e-11e7-9af7-a50bc3300042_story.html 
-
-330 of 499 SUCCESS
-
-331 of 499 SUCCESS
-
-332 of 499 SUCCESS
-
-333 of 499 SUCCESS
-
-334 of 499 SUCCESS
-
-335 of 499 SUCCESS
-
-336 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/michael-brennan-trump-judicial-nominee_us_5a85dc8ae4b00bc49f4212ad 
-
-337 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/dear-americaall-children-deserve-quality-affordable_us_5a871852e4b088d92ef35ae1 
-
-338 of 499 SUCCESS
-
-339 of 499 SUCCESS
-
-340 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/betsy-devos-lawsuit-sex-assault-student-protections_us_5a6bf2a4e4b06e253267baca 
-
-341 of 499 SUCCESS
-
-342 of 499 SUCCESS
-
-343 of 499 SUCCESS
-
-344 of 499 SUCCESS
-
-345 of 499 ***FAILURE*** 
-Reason Code: 'ascii' codec can't decode byte 0xe2 in position 72: ordinal not in range(128) 
-https://www.economist.com/news/business/21739758-advertising-agencies-are-under-pressure-change-archaic-and-inefficient-elements-their 
-
-346 of 499 SUCCESS
-
-347 of 499 SUCCESS
-
-348 of 499 SUCCESS
-
-349 of 499 SUCCESS
-
-350 of 499 SUCCESS
-
-351 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 404: Not Found 
-https://www.washingtonpost.com/national/rallies-in-asia-kick-off-international-womens-day/2018/03/07/0b645ac6-2286-11e8-946c-9420060cb7bd_story.html 
-
-352 of 499 SUCCESS
-
-353 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/opinion-stewart-krevat-kenneth-marcus_us_5a874883e4b004fc31920471 
-
-354 of 499 SUCCESS
-
-355 of 499 SUCCESS
-
-356 of 499 SUCCESS
-
-357 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/professor-mark-skilton/impact-of-artificial-inte_b_14702160.html 
-
-358 of 499 SUCCESS
-
-359 of 499 SUCCESS
-
-360 of 499 SUCCESS
-
-361 of 499 SUCCESS
-
-362 of 499 SUCCESS
-
-363 of 499 SUCCESS
-
-364 of 499 SUCCESS
-
-365 of 499 SUCCESS
-
-366 of 499 SUCCESS
-
-367 of 499 SUCCESS
-
-368 of 499 SUCCESS
-
-369 of 499 SUCCESS
-
-370 of 499 SUCCESS
-
-371 of 499 SUCCESS
-
-372 of 499 SUCCESS
-
-373 of 499 SUCCESS
-
-374 of 499 SUCCESS
-
-375 of 499 SUCCESS
-
-376 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 404: Not Found 
-https://www.washingtonpost.com/world/olympics/analysis-as-olympics-begin-2-koreas-navigate-an-odd-moment/2018/02/08/55bd96c2-0ccf-11e8-998c-96deb18cca19_story.html 
-
-377 of 499 SUCCESS
-
-378 of 499 SUCCESS
-
-379 of 499 SUCCESS
-
-380 of 499 SUCCESS
-
-381 of 499 SUCCESS
-
-382 of 499 SUCCESS
-
-383 of 499 SUCCESS
-
-384 of 499 SUCCESS
-
-385 of 499 SUCCESS
-
-386 of 499 SUCCESS
-
-387 of 499 SUCCESS
-
-388 of 499 SUCCESS
-
-389 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/texas-schools-illegal-policies-federal-law_us_5a578f58e4b018a4f8b6ac74 
-
-390 of 499 SUCCESS
-
-391 of 499 SUCCESS
-
-392 of 499 SUCCESS
-
-393 of 499 SUCCESS
-
-394 of 499 SUCCESS
-
-395 of 499 SUCCESS
-
-396 of 499 SUCCESS
-
-397 of 499 SUCCESS
-
-398 of 499 SUCCESS
-
-399 of 499 SUCCESS
-
-400 of 499 SUCCESS
-
-401 of 499 SUCCESS
-
-402 of 499 SUCCESS
-
-403 of 499 SUCCESS
-
-404 of 499 SUCCESS
-
-405 of 499 SUCCESS
-
-406 of 499 SUCCESS
-
-407 of 499 SUCCESS
-
-408 of 499 SUCCESS
-
-409 of 499 SUCCESS
-
-410 of 499 SUCCESS
-
-411 of 499 SUCCESS
-
-412 of 499 SUCCESS
-
-413 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/bucking-when-the-beat-drops-documentary_us_5aa1c4ffe4b01b9b0a39a21e 
-
-414 of 499 SUCCESS
-
-415 of 499 SUCCESS
-
-416 of 499 SUCCESS
-
-417 of 499 SUCCESS
-
-418 of 499 SUCCESS
-
-419 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 404: Not Found 
-https://www.washingtonpost.com/world/europe/frances-rail-operator-convicted-of-discrimination/2018/02/01/8cbc72b4-0749-11e8-aa61-f3391373867e_story.html 
-
-420 of 499 SUCCESS
-
-421 of 499 SUCCESS
-
-422 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/linda-brown-brown-v-board-of-education-dies-76_us_5ab95c54e4b008c9e5fa5aa1 
-
-423 of 499 SUCCESS
-
-424 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/florida-poor-black-neighborhood-air-pollution_us_5a663a67e4b0e5630072746e 
-
-425 of 499 SUCCESS
-
-426 of 499 SUCCESS
-
-427 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/florida-poor-black-neighborhood-air-pollution_us_5a663a67e4b0e5630072746e 
-
-428 of 499 SUCCESS
-
-429 of 499 SUCCESS
-
-430 of 499 SUCCESS
-
-431 of 499 SUCCESS
-
-432 of 499 SUCCESS
-
-433 of 499 SUCCESS
-
-434 of 499 SUCCESS
-
-435 of 499 SUCCESS
-
-436 of 499 SUCCESS
-
-437 of 499 SUCCESS
-
-438 of 499 SUCCESS
-
-439 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/what-were-getting-wrong-about-the-aziz-ansari-conversation_us_5a5e1051e4b01ccdd48b5f96 
-
-440 of 499 SUCCESS
-
-441 of 499 SUCCESS
-
-442 of 499 SUCCESS
-
-443 of 499 SUCCESS
-
-444 of 499 SUCCESS
-
-445 of 499 ***FAILURE*** 
-Reason Code: 'ascii' codec can't decode byte 0xe2 in position 48: ordinal not in range(128) 
-https://www.economist.com/news/business/21737078-america-rises-ranking-germany-falls-and-metoo-movement-makes-its-mark-south 
-
-446 of 499 SUCCESS
-
-447 of 499 SUCCESS
-
-448 of 499 SUCCESS
-
-449 of 499 SUCCESS
-
-450 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 404: Not Found 
-https://www.washingtonpost.com/business/the-latest-times-up-has-helped-1500-women-file-lawsuits/2018/03/08/13b21a0c-232f-11e8-946c-9420060cb7bd_story.html 
-
-451 of 499 SUCCESS
-
-452 of 499 SUCCESS
-
-453 of 499 SUCCESS
-
-454 of 499 SUCCESS
-
-455 of 499 SUCCESS
-
-456 of 499 SUCCESS
-
-457 of 499 SUCCESS
-
-458 of 499 SUCCESS
-
-459 of 499 SUCCESS
-
-460 of 499 SUCCESS
-
-461 of 499 SUCCESS
-
-462 of 499 SUCCESS
-
-463 of 499 SUCCESS
-
-464 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/4-numbers-international-womens-day_us_5a9fd070e4b0e9381c13e05a 
-
-465 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/a-cornell-frat-held-a-disgusting-pig-roast-sex-contest-and-im-not-surprised_us_5a81d1a4e4b08dfc9306ac01 
-
-466 of 499 SUCCESS
-
-467 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 404: Not Found 
-https://www.washingtonpost.com/world/the_americas/hezbollah-us-not-honest-broker-in-lebanons-gas-dispute/2018/02/16/23f345fa-132e-11e8-a68c-e9374188170e_story.html 
-
-468 of 499 SUCCESS
-
-469 of 499 SUCCESS
-
-470 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/marielle-franco-assassination-rio_us_5aaa7a51e4b0004c0407fbe0 
-
-471 of 499 SUCCESS
-
-472 of 499 SUCCESS
-
-473 of 499 SUCCESS
-
-474 of 499 SUCCESS
-
-475 of 499 SUCCESS
-
-476 of 499 SUCCESS
-
-477 of 499 SUCCESS
-
-478 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/jeff-sessions-mlk-widow-racism_us_5a5f18bbe4b096ecfca8c757 
-
-479 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/jeff-sessions-mlk-widow-racism_us_5a5f18bbe4b096ecfca8c757 
-
-480 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/muslim-protesters-face-patriotism-questions_us_5a4f8e12e4b003133ec7585a 
-
-481 of 499 SUCCESS
-
-482 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/gop-education-bill-would-make-college-even-less-affordable_us_5a95b563e4b03afbcf9031a2 
-
-483 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/women-film-crew-member-sexual-harassment_us_5aa81eeee4b001c8bf147bf8 
-
-484 of 499 SUCCESS
-
-485 of 499 SUCCESS
-
-486 of 499 SUCCESS
-
-487 of 499 SUCCESS
-
-488 of 499 SUCCESS
-
-489 of 499 SUCCESS
-
-490 of 499 SUCCESS
-
-491 of 499 SUCCESS
-
-492 of 499 SUCCESS
-
-493 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/trump-shithole-help-immigrants-stay_us_5a5d6ec3e4b03c4189684844 
-
-494 of 499 SUCCESS
-
-495 of 499 SUCCESS
-
-496 of 499 SUCCESS
-
-497 of 499 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/how-to-celebrate-black-history-with-your-kids-all-year-round_us_5a7b48f9e4b08dfc92ff59e3 
-
-498 of 499 SUCCESS
-
-499 of 499 SUCCESS
+99 of 99 SUCCESS
 

@@ -19,10 +19,10 @@ class news_crawler:
             "title": "URGENT: Pedestrian Bridge Collapses At University; Injuries Unclear"
         }]})
 
-    def crawl_articles(self, collectedData):
+    def crawl_articles(self, collectedDataDictionary):
 
         # Convert string to json object
-        articles = json.loads(collectedData)
+        articles = collectedDataDictionary
         # Create "articles" dictionary
         data = {'articles': []}
         # Loop for each article in the collected data
@@ -154,7 +154,7 @@ class news_crawler:
                 print >> status_file, counter, 'of', len(articles['articles']), '***FAILURE***', '\nReason Code:', a, '\n', str(
                     x['url']), '\n'
 
-        json_data = json.dumps(data, sort_keys=True, indent=3)
+        json_data = json.dumps(data, sort_keys=True, indent=4)
         status_file.close()
         # return a json string
         return json_data
