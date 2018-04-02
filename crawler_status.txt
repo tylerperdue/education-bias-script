@@ -36,10 +36,7 @@
 
 19 of 99 SUCCESS
 
-20 of 99 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/hbcu-museum-washington-dc_us_5ab143b0e4b0decad0449410 
-
+20 of 99 SUCCESS
 
 21 of 99 SUCCESS
 
@@ -49,10 +46,7 @@ http://www.huffingtonpost.com/entry/hbcu-museum-washington-dc_us_5ab143b0e4b0dec
 
 24 of 99 SUCCESS
 
-25 of 99 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/opinion-cuevas-afrolatino-health_us_5a6fd72ee4b00d0de22343eb 
-
+25 of 99 SUCCESS
 
 26 of 99 SUCCESS
 
@@ -68,19 +62,13 @@ https://www.huffingtonpost.com/entry/opinion-cuevas-afrolatino-health_us_5a6fd72
 
 32 of 99 SUCCESS
 
-33 of 99 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/detroit-internet-teens_us_5abbfb34e4b06409775cc5ea 
-
+33 of 99 SUCCESS
 
 34 of 99 SUCCESS
 
 35 of 99 SUCCESS
 
-36 of 99 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/education-is-the-kindling-of-a-flame-how-to-reinvent_us_5a4ffec5e4b0ee59d41c0a9f 
-
+36 of 99 SUCCESS
 
 37 of 99 SUCCESS
 
@@ -88,36 +76,21 @@ https://www.huffingtonpost.com/entry/education-is-the-kindling-of-a-flame-how-to
 
 39 of 99 SUCCESS
 
-40 of 99 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/devos-lgbtq-discrimination-private-schools_us_5ab14474e4b054d118dd7cc8 
+40 of 99 SUCCESS
 
+41 of 99 SUCCESS
 
-41 of 99 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/automation-displaces-women-jobs_us_5a671ba8e4b0e5630073361e 
-
-
-42 of 99 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/automation-displaces-women-jobs_us_5a671ba8e4b0e5630073361e 
-
+42 of 99 SUCCESS
 
 43 of 99 SUCCESS
 
-44 of 99 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/no-child-left-behind-anniversary_us_5a538591e4b003133eca7a05 
-
+44 of 99 SUCCESS
 
 45 of 99 SUCCESS
 
 46 of 99 SUCCESS
 
-47 of 99 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/racial-harassment-in-schools-uptick_us_5a8db498e4b03414379cae76 
-
+47 of 99 SUCCESS
 
 48 of 99 SUCCESS
 
@@ -173,26 +146,17 @@ http://www.huffingtonpost.com/entry/racial-harassment-in-schools-uptick_us_5a8db
 
 74 of 99 SUCCESS
 
-75 of 99 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/transgender-student-bathrooms_us_5a81c443e4b0c6726e15d2bb 
-
+75 of 99 SUCCESS
 
 76 of 99 SUCCESS
 
-77 of 99 ***FAILURE*** 
-Reason Code: 'ascii' codec can't decode byte 0xe2 in position 75: ordinal not in range(128) 
-https://www.economist.com/news/britain/21739671-third-its-schools-have-taken-part-randomised-controlled-trials-struggle-getting 
-
+77 of 99 SUCCESS
 
 78 of 99 SUCCESS
 
 79 of 99 SUCCESS
 
-80 of 99 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/transgender-student-bathrooms_us_5a81c443e4b0c6726e15d2bb 
-
+80 of 99 SUCCESS
 
 81 of 99 SUCCESS
 
@@ -204,22 +168,13 @@ http://www.huffingtonpost.com/entry/transgender-student-bathrooms_us_5a81c443e4b
 
 85 of 99 SUCCESS
 
-86 of 99 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-http://www.huffingtonpost.com/entry/national-walkout-bronx-school-violence_us_5aa9704ee4b0004c0406b8ea 
-
+86 of 99 SUCCESS
 
 87 of 99 SUCCESS
 
-88 of 99 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/opinion-tracyramirez-metcalf-reporting-harassment_us_5aaa8948e4b045cd0a6f6333 
+88 of 99 SUCCESS
 
-
-89 of 99 ***FAILURE*** 
-Reason Code: HTTP Error 403: Forbidden 
-https://www.huffingtonpost.com/entry/opinion-robins-opioids-past_us_5aa677f4e4b07047bec85a29 
-
+89 of 99 SUCCESS
 
 90 of 99 SUCCESS
 

@@ -75,7 +75,7 @@ class data_collection:
                     page_number) + '&q=' + self.keywords + '&apiKey=' + apiKey
             else:
                 url = 'https://newsapi.org/v2/everything?sources=' + sourceList + '&pageSize=100&page=' + str(
-                    page_number) + '&q=&apiKey=' + apiKey
+                    page_number) + '&q=' + self.keywords + '&q=&apiKey=' + apiKey
             response = requests.get(url)
             response = json.loads(response.text)
             # Add result of request to result list
