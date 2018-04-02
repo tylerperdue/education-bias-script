@@ -1,5 +1,5 @@
-from collections import Counter
-import re, string, json, collections
+import re
+
 
 class word_tools:
     def __init__(self):  # this method creates the class object.
@@ -7,44 +7,23 @@ class word_tools:
         self.keywords = ''
         pass
 
-    def textToWordCount(self,inputDictionary):
-        print inputDictionary
-        dict = inputDictionary["articles"]
-        print len(dict)
-        print type(dict)
-
+    def textToWordCount(self, inputDictionary):
+        # print inputDictionary
+        inner_dictionary = inputDictionary["articles"]
+        # print len(inner_dictionary)
+        # print type(inner_dictionary)
         counter = 0
-        while counter < len(dict):
-            a = dict[counter]
+        while counter < len(inner_dictionary):
+            a = inner_dictionary[counter]
             b = a['article']
             frequency = {}
-
-            #print a['article']
             match_pattern = re.findall(r'\b[a-z]{3,15}\b', b)
-
-            print b
-
+            # print b
             for word in match_pattern:
                 count = frequency.get(word, 0)
                 frequency[word] = count + 1
-
-            frequency_list = frequency.keys()
-
-            for words in frequency_list:
-                print words, frequency[words]
-
             b = b.split()
             a['wordFreq'] = frequency
-
             counter = counter + 1
-        #   print dict[key]
-
-            #text = pattern.match(text)
-            #array = Counter(text.split())
-            #key["wordCount"] = array
-
-
-        dict = a
-        print type(dict)
+        # print type(a)
         return inputDictionary
-
