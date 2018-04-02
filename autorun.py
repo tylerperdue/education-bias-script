@@ -40,7 +40,7 @@ if (str(raw_input(inputPrompt)) == 'y'):
     f = open('data_collection.json', 'w')
     print >> f, j
     f.close()
-
+    data_export = json.load(open("data_collection.json"))
 else:
     print "Loading Cached Datafile (data_collection.json)"  # Imports Previous JSON Data
     data_export = json.load(open("data_collection.json"))
@@ -56,6 +56,7 @@ if (str(raw_input(inputPrompt)) == 'y'):
     f = open('crawler_export.json', 'w')
     print >> f, j
     f.close()
+    crawler_export = json.load(open("crawler_export.json"))
 else:
     print "Loading Cached Datafile (crawler_export.json)"  # Imports Previous JSON Data
     crawler_export = json.load(open("crawler_export.json"))
