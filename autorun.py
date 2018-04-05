@@ -14,7 +14,7 @@ key_repeat = True
 while key_repeat:
     try:
         apiKeys.printAllKeys()
-        currentAPIKey = raw_input("\nSelect an API Key (KeyName|add): ")
+        currentAPIKey = str(raw_input("\nSelect an API Key (KeyName|add): ") or "BenPSU")
         if currentAPIKey == 'add':
             print '\nAdd an API Key'
             title = raw_input('\tTitle: ')
