@@ -84,10 +84,13 @@ class word_tools:
 
         inputPrompt = "\nCreate WordCloud From Image? (y/n):"
         if (str(raw_input(inputPrompt)) == 'y'):
+            print "Directory for Input Images: InputImages/"
             inputPrompt = "\tJPG Filename (Default: stencil.jpg): "
-            filename = str(raw_input(inputPrompt) or "stencil.jpg")
+            filename_in = str(raw_input(inputPrompt) or "stencil.jpg")
+            filename = str("InputImages/" + filename_in)
             wt = wc()
-            print 'Exporting WordCloud to /Visualizations/WordCloud_Img.jpg'
-            ot = wt.make_wordcloud_img(outDict, filename, 'Visualizations/WordCloud_Img.jpg')
+            print 'Exporting WordCloud to /Visualizations/WordCloud_IMG_' + filename_in
+            file_out = 'Visualizations/WordCloud_Img_' + filename_in
+            ot = wt.make_wordcloud_img(outDict, filename, file_out)
 
         return inputDictionary
