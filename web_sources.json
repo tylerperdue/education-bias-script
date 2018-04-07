@@ -1,91 +1,106 @@
 {
     "articles": [
         {
-          "source": "The New York Times",
-          "title": "Letters: The Battle Over Screen Time",
-          "url": "https://www.nytimes.com/2018/02/24/opinion/sunday/digital-divide.html"
-        },
-      {
-        "source": "The New York Times",
-        "title": "An Advocate for Israel Draws Fire as He Nears Confirmation to Civil Rights Post",
-        "url": "https://www.nytimes.com/2018/01/18/us/politics/kenneth-marcus-civil-rights-israel-bds.html"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Op-Ed Contributor: America\u2019s Real Digital Divide",
-        "url": "https://www.nytimes.com/2018/02/11/opinion/america-digital-divide.html"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Fiction: Bridging the Racial Divide in a Middle School Friendship",
-        "url": "https://www.nytimes.com/2018/01/15/books/review/sam-graham-felsen-green.html"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Same family income, same street, but the black boy still grows up to earn less",
-        "url": "https://www.washingtonpost.com/news/wonk/wp/2018/03/19/same-family-income-same-street-but-the-black-boy-still-grows-up-to-earn-less/"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Women and College Graduates Flock to the Democratic Party, Study Finds",
-        "url": "https://www.nytimes.com/2018/03/22/us/pew-study-college-graduates.html"
-      },
-      {
+            "source": "The New York Times", 
+            "title": "Letters: The Battle Over Screen Time", 
+            "url": "https://www.nytimes.com/2018/02/24/opinion/sunday/digital-divide.html"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "An Advocate for Israel Draws Fire as He Nears Confirmation to Civil Rights Post", 
+            "url": "https://www.nytimes.com/2018/01/18/us/politics/kenneth-marcus-civil-rights-israel-bds.html"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Op-Ed Contributor: America\u2019s Real Digital Divide", 
+            "url": "https://www.nytimes.com/2018/02/11/opinion/america-digital-divide.html"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "For the ACT and the SAT, Pencils No Longer Required, but Sometimes Necessary", 
+            "url": "https://www.nytimes.com/2018/04/05/education/learning/act-sat-college-entrance-exam.html"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Fiction: Bridging the Racial Divide in a Middle School Friendship", 
+            "url": "https://www.nytimes.com/2018/01/15/books/review/sam-graham-felsen-green.html"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Law Schools Debate a Contentious Testing Alternative", 
+            "url": "https://www.nytimes.com/2018/04/05/education/learning/lsat-law-school-testing-alternative.html"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "Same family income, same street, but the black boy still grows up to earn less", 
+            "url": "https://www.washingtonpost.com/news/wonk/wp/2018/03/19/same-family-income-same-street-but-the-black-boy-still-grows-up-to-earn-less/"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Women and College Graduates Flock to the Democratic Party, Study Finds", 
+            "url": "https://www.nytimes.com/2018/03/22/us/pew-study-college-graduates.html"
+        }, 
+        {
             "source": "BBC News", 
             "title": "Gender pay gap: Charity questions accuracy of data", 
             "url": "http://www.bbc.co.uk/news/uk-england-42611365"
         }, 
         {
-          "source": "The Washington Post",
-          "title": "Are states really trying to overcome the harmful legacy of No Child Left Behind?",
-          "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/02/12/are-states-really-trying-to-overcome-the-harmful-legacy-of-no-child-left-behind/"
-        },
-      {
-        "source": "CNN",
-        "title": "Why a high school that's just 5% black is raising the Black Lives Matter flag",
-        "url": "https://www.cnn.com/2018/02/02/us/black-lives-matter-flag-vermont-montpelier-trnd/index.html"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Why DeVos\u2019s plan to delay Obama-era rule on minority special-education students is a mistake",
-        "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/03/20/why-devoss-plan-to-delay-obama-era-rule-on-minority-special-education-students-is-a-mistake/"
-      },
-      {
-        "source": "Bloomberg",
-        "title": "For Black Women, Education Is No Protection Against Infant Mortality",
-        "url": "https://www.bloomberg.com/news/articles/2018-04-02/for-black-women-education-is-no-protection-against-infant-mortality"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Disney to Donate $1 Million of 'Black Panther' Proceeds to Youth STEM Programs - New York Times",
-        "url": "https://www.nytimes.com/2018/02/27/movies/disney-black-panther-stem.html"
-      },
-      {
+            "source": "The Washington Post", 
+            "title": "Are states really trying to overcome the harmful legacy of No Child Left Behind?", 
+            "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/02/12/are-states-really-trying-to-overcome-the-harmful-legacy-of-no-child-left-behind/"
+        }, 
+        {
+            "source": "CNN", 
+            "title": "Why a high school that's just 5% black is raising the Black Lives Matter flag", 
+            "url": "https://www.cnn.com/2018/02/02/us/black-lives-matter-flag-vermont-montpelier-trnd/index.html"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "Why DeVos\u2019s plan to delay Obama-era rule on minority special-education students is a mistake", 
+            "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/03/20/why-devoss-plan-to-delay-obama-era-rule-on-minority-special-education-students-is-a-mistake/"
+        }, 
+        {
+            "source": "Bloomberg", 
+            "title": "For Black Women, Education Is No Protection Against Infant Mortality", 
+            "url": "https://www.bloomberg.com/news/articles/2018-04-02/for-black-women-education-is-no-protection-against-infant-mortality"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Disney to Donate $1 Million of 'Black Panther' Proceeds to Youth STEM Programs - New York Times", 
+            "url": "https://www.nytimes.com/2018/02/27/movies/disney-black-panther-stem.html"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "An Expert\u2019s View: Sir Ken Robinson", 
+            "url": "https://www.nytimes.com/2018/04/05/education/learning/an-experts-view-sir-ken-robinson.html"
+        }, 
+        {
             "source": "BBC News", 
             "title": "Is there a north-south divide in England's schools?", 
             "url": "http://www.bbc.co.uk/news/education-43544255"
         }, 
         {
-          "source": "The Washington Post",
-          "title": "\u2018Here\u2019s what our secretary of education needs to hear\u2019 \u2014 by a venture capitalist who visited 200 schools in all 50 states",
-          "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/03/15/heres-what-our-secretary-of-education-needs-to-hear-by-a-venture-capitalist-who-visited-200-schools-in-all-50-states/"
-        },
-      {
-        "source": "Bloomberg",
-        "title": "Russian Billionaires Are Building Megaschools to Rival Eton and Exeter",
-        "url": "https://www.bloomberg.com/news/articles/2018-02-12/russian-billionaires-are-building-megaschools-to-rival-eton-and-exeter"
-      },
-      {
-        "source": "CNN",
-        "title": "Democratic Rep to DeVos: Your 'head is in the sand' on race issues in schools",
-        "url": "https://www.cnn.com/2018/03/20/politics/barbara-lee-betsy-devos-racial-bias/index.html"
-      },
-      {
-        "source": "CBS News",
-        "title": "Human Cargo, Secretary of Education, Treating Trauma",
-        "url": "https://www.cbsnews.com/video/human-cargo-secretary-of-education-treating-trauma/"
-      },
-      {
+            "source": "The Washington Post", 
+            "title": "\u2018Here\u2019s what our secretary of education needs to hear\u2019 \u2014 by a venture capitalist who visited 200 schools in all 50 states", 
+            "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/03/15/heres-what-our-secretary-of-education-needs-to-hear-by-a-venture-capitalist-who-visited-200-schools-in-all-50-states/"
+        }, 
+        {
+            "source": "Bloomberg", 
+            "title": "Russian Billionaires Are Building Megaschools to Rival Eton and Exeter", 
+            "url": "https://www.bloomberg.com/news/articles/2018-02-12/russian-billionaires-are-building-megaschools-to-rival-eton-and-exeter"
+        }, 
+        {
+            "source": "CNN", 
+            "title": "Democratic Rep to DeVos: Your 'head is in the sand' on race issues in schools", 
+            "url": "https://www.cnn.com/2018/03/20/politics/barbara-lee-betsy-devos-racial-bias/index.html"
+        }, 
+        {
+            "source": "CBS News", 
+            "title": "Human Cargo, Secretary of Education, Treating Trauma", 
+            "url": "https://www.cbsnews.com/video/human-cargo-secretary-of-education-treating-trauma/"
+        }, 
+        {
             "source": "BBC News", 
             "title": "'Class divide' in university entry exams", 
             "url": "http://www.bbc.co.uk/news/education-42819541"
@@ -96,904 +111,389 @@
             "url": "http://www.bbc.co.uk/news/uk-wales-42791009"
         }, 
         {
-          "source": "The New York Times",
-          "title": "Op-Ed Columnist: How Sex Trumped Race",
-          "url": "https://www.nytimes.com/2018/01/17/opinion/trump-women-race.html"
-        },
-      {
-        "source": "Al Jazeera English",
-        "title": "A look at Cameroon's language divide",
-        "url": "http://www.aljazeera.com/news/2018/02/cameroons-language-divide-180204103655592.html"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "There are better ways to assess students than with high-stakes standardized tests. These schools are using them with success.",
-        "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/04/03/there-are-better-ways-to-assess-students-than-with-high-stakes-standardized-tests-these-schools-are-using-them-with-success/"
-      },
-      {
-        "source": "Al Jazeera English",
-        "title": "South Korea bans English education for first and second graders",
-        "url": "https://www.aljazeera.com/indepth/features/south-korea-bans-english-education-graders-180302100352881.html"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Letter: STEM Education in Idaho",
-        "url": "https://www.nytimes.com/2018/02/16/opinion/stem-education.html"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Democrats Tell DeVos Her 'Head Is in the Sand' on Racial Bias - New York Times",
-        "url": "https://www.nytimes.com/2018/03/20/us/politics/betsy-devos-congress-racial-disparities.html"
-      },
-      {
-        "source": "The Economist",
-        "title": "Genes and backgrounds matter most to exam results",
-        "url": "https://www.economist.com/news/science-and-technology/21739574-type-school-less-important-genes-and-backgrounds-matter-most-exam"
-      },
-      {
-        "source": "CNN",
-        "title": "The financial impact of winning (and losing) the birth lottery",
-        "url": "http://money.cnn.com/2018/03/06/news/economy/wealth-gap-birth-lottery/index.html"
-      },
-      {
-        "source": "Bloomberg",
-        "title": "The Case Against 'The Case Against Education'",
-        "url": "https://www.bloomberg.com/news/articles/2018-01-31/the-case-against-the-case-against-education"
-      },
-      {
-        "source": "Bloomberg",
-        "title": "De Blasio Names Houston's Carranza NYC's New Schools Chancellor",
-        "url": "https://www.bloomberg.com/news/articles/2018-03-05/de-blasio-names-houston-s-carranza-nyc-s-new-schools-chancellor"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Op-Ed Contributor: How to Make A.I. Human-Friendly",
-        "url": "https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "DeVos seeks cuts from Education Department to support school choice - Washington Post",
-        "url": "https://www.washingtonpost.com/news/education/wp/2018/02/12/devos-seeks-massive-cuts-from-education-department-to-support-school-choice/"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Report: No progress for African Americans on homeownership, unemployment and incarceration in 50 years",
-        "url": "https://www.washingtonpost.com/news/wonk/wp/2018/02/26/report-no-progress-for-african-americans-on-homeownership-unemployment-and-incarceration-in-50-years/"
-      },
-      {
-        "source": "CNN",
-        "title": "Why is the US rolling back this high-return global investment?",
-        "url": "https://www.cnn.com/2018/03/10/opinions/us-rolling-back-global-investment-jalan-opinion/index.html"
-      },
-      {
-        "source": "CNN",
-        "title": "Cities to federal government: Stop telling us how to build our internet",
-        "url": "http://money.cnn.com/2018/02/07/news/economy/cities-fcc-internet/index.html"
-      },
-      {
-        "source": "Al Jazeera English",
-        "title": "Iran's wealth gap: tens of millions struggle to get by",
-        "url": "http://www.aljazeera.com/news/2018/01/irans-wealth-gap-tens-millions-struggle-180120141446366.html"
-      },
-      {
-        "source": "Al Jazeera English",
-        "title": "Mobile World Congress 2018: 5G in the spotlight",
-        "url": "https://www.aljazeera.com/news/2018/02/mobile-world-congress-2018-5g-spotlight-180227114744157.html"
-      },
-      {
-        "source": "The New York Times",
-        "title": "What We Talk About When We Talk About Pay Inequity",
-        "url": "https://www.nytimes.com/2018/02/03/business/wage-gap-gender-discrimination.html"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Op-Ed Contributors: Linda Brown and the Unfinished Work of School Integration",
-        "url": "https://www.nytimes.com/2018/03/30/opinion/linda-brown-school-integration.html"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "The one thing Trump said about education policy in State of the Union address",
-        "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/01/31/the-one-thing-trump-said-about-education-policy-in-state-of-the-union-address/"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Education Department will no longer investigate transgender bathroom complaints - Washington Post",
-        "url": "https://www.washingtonpost.com/news/education/wp/2018/02/12/education-department-will-no-longer-investigate-transgender-bathroom-complaints/"
-      },
-      {
-        "source": "The Economist",
-        "title": "Computer programs recognise white men better than black women",
-        "url": "https://www.economist.com/news/science-and-technology/21737014-biased-training-probably-blame-computer-programs-recognise-white-men-better"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Government Watchdog Finds Racial Bias in School Discipline",
-        "url": "https://www.nytimes.com/2018/04/04/us/politics/racial-bias-school-discipline-policies.html"
-      },
-      {
+            "source": "The New York Times", 
+            "title": "Op-Ed Columnist: How Sex Trumped Race", 
+            "url": "https://www.nytimes.com/2018/01/17/opinion/trump-women-race.html"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "There are better ways to assess students than with high-stakes standardized tests. These schools are using them with success.", 
+            "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/04/03/there-are-better-ways-to-assess-students-than-with-high-stakes-standardized-tests-these-schools-are-using-them-with-success/"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Letter: STEM Education in Idaho", 
+            "url": "https://www.nytimes.com/2018/02/16/opinion/stem-education.html"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Democrats Tell DeVos Her 'Head Is in the Sand' on Racial Bias - New York Times", 
+            "url": "https://www.nytimes.com/2018/03/20/us/politics/betsy-devos-congress-racial-disparities.html"
+        }, 
+        {
+            "source": "CNN", 
+            "title": "The financial impact of winning (and losing) the birth lottery", 
+            "url": "http://money.cnn.com/2018/03/06/news/economy/wealth-gap-birth-lottery/index.html"
+        }, 
+        {
+            "source": "Bloomberg", 
+            "title": "The Case Against 'The Case Against Education'", 
+            "url": "https://www.bloomberg.com/news/articles/2018-01-31/the-case-against-the-case-against-education"
+        }, 
+        {
+            "source": "CNN", 
+            "title": "How to make the wage gap an injustice of the past", 
+            "url": "https://www.cnn.com/2018/04/05/opinions/equal-pay-day-solutions-opinion-churches/index.html"
+        }, 
+        {
+            "source": "Bloomberg", 
+            "title": "De Blasio Names Houston's Carranza NYC's New Schools Chancellor", 
+            "url": "https://www.bloomberg.com/news/articles/2018-03-05/de-blasio-names-houston-s-carranza-nyc-s-new-schools-chancellor"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "DeVos seeks cuts from Education Department to support school choice - Washington Post", 
+            "url": "https://www.washingtonpost.com/news/education/wp/2018/02/12/devos-seeks-massive-cuts-from-education-department-to-support-school-choice/"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Op-Ed Contributor: How to Make A.I. Human-Friendly", 
+            "url": "https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "Report: No progress for African Americans on homeownership, unemployment and incarceration in 50 years", 
+            "url": "https://www.washingtonpost.com/news/wonk/wp/2018/02/26/report-no-progress-for-african-americans-on-homeownership-unemployment-and-incarceration-in-50-years/"
+        }, 
+        {
+            "source": "CNN", 
+            "title": "Why is the US rolling back this high-return global investment?", 
+            "url": "https://www.cnn.com/2018/03/10/opinions/us-rolling-back-global-investment-jalan-opinion/index.html"
+        }, 
+        {
+            "source": "CNN", 
+            "title": "Cities to federal government: Stop telling us how to build our internet", 
+            "url": "http://money.cnn.com/2018/02/07/news/economy/cities-fcc-internet/index.html"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "What We Talk About When We Talk About Pay Inequity", 
+            "url": "https://www.nytimes.com/2018/02/03/business/wage-gap-gender-discrimination.html"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Op-Ed Contributors: Linda Brown and the Unfinished Work of School Integration", 
+            "url": "https://www.nytimes.com/2018/03/30/opinion/linda-brown-school-integration.html"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "The one thing Trump said about education policy in State of the Union address", 
+            "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/01/31/the-one-thing-trump-said-about-education-policy-in-state-of-the-union-address/"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "Education Department will no longer investigate transgender bathroom complaints - Washington Post", 
+            "url": "https://www.washingtonpost.com/news/education/wp/2018/02/12/education-department-will-no-longer-investigate-transgender-bathroom-complaints/"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Building Skills Outside the Classroom With New Ways of Learning", 
+            "url": "https://www.nytimes.com/2018/04/05/education/learning/project-based-learning.html"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "Implicit racial bias causes black boys to be disciplined at school more than whites, federal report finds", 
+            "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/04/05/implicit-racial-bias-causes-black-boys-to-be-disciplined-at-school-more-than-whites-federal-report-finds/"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Government Watchdog Finds Racial Bias in School Discipline", 
+            "url": "https://www.nytimes.com/2018/04/04/us/politics/racial-bias-school-discipline-policies.html"
+        }, 
+        {
             "source": "BBC News", 
             "title": "Schools share \u00a3120m in bid to close attainment gap", 
             "url": "http://www.bbc.co.uk/news/uk-scotland-42866794"
         }, 
         {
-          "source": "The Washington Post",
-          "title": "The future of education is virtual",
-          "url": "https://www.washingtonpost.com/news/innovations/wp/2018/01/23/the-future-of-education-is-virtual/"
-        },
-      {
-        "source": "Bloomberg",
-        "title": "Bloomberg for Education and CFA Institute Launch CFAPRO Database",
-        "url": "https://www.bloomberg.com/company/announcements/bloomberg-education-cfa-institute-launch-cfapro-database/"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "12 ideas that help explain what\u2019s wrong with most schooling today",
-        "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/03/28/12-ideas-that-help-explain-whats-wrong-with-most-schooling-today/"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Why Trump\u2019s pick to head the Education Department\u2019s civil rights office is so controversial",
-        "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/01/18/why-trumps-pick-to-head-the-education-departments-civil-rights-office-is-so-controversial/"
-      },
-      {
-        "source": "The Economist",
-        "title": "Managing human resources is about to become easier",
-        "url": "https://www.economist.com/news/special-report/21739433-ai-changing-way-firms-screen-hire-and-manage-their-talent-managing-human-resources"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Poll: Deep partisan divide among Americans over Israel",
-        "url": "https://www.washingtonpost.com/world/middle_east/poll-deep-partisan-divide-among-americans-over-israel/2018/01/23/b56aaa3c-0046-11e8-86b9-8908743c79dd_story.html"
-      },
-      {
-        "source": "CNN",
-        "title": "Courts were unfair to boy who brought clock to school",
-        "url": "https://www.cnn.com/2018/03/22/opinions/ahmed-mohamed-discrimination-school-court-opinion-iyer/index.html"
-      },
-      {
-        "source": "BBC News",
-        "title": "University of Hull beats Oxbridge in equality ranking",
-        "url": "http://www.bbc.co.uk/news/education-43643939"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Latest federal diversity report from OPM shows little or no progress and some regression",
-        "url": "https://www.washingtonpost.com/news/powerpost/wp/2018/04/02/latest-federal-diversity-report-from-opm-shows-little-or-no-progress-and-some-regression/"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Google Memo Author Sues, Claiming Bias Against White Conservative Men",
-        "url": "https://www.nytimes.com/2018/01/08/technology/google-memo-discrimination-lawsuit.html"
-      },
-      {
+            "source": "The Washington Post", 
+            "title": "The future of education is virtual", 
+            "url": "https://www.washingtonpost.com/news/innovations/wp/2018/01/23/the-future-of-education-is-virtual/"
+        }, 
+        {
+            "source": "Bloomberg", 
+            "title": "Bloomberg for Education and CFA Institute Launch CFAPRO Database", 
+            "url": "https://www.bloomberg.com/company/announcements/bloomberg-education-cfa-institute-launch-cfapro-database/"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "12 ideas that help explain what\u2019s wrong with most schooling today", 
+            "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/03/28/12-ideas-that-help-explain-whats-wrong-with-most-schooling-today/"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "Why Trump\u2019s pick to head the Education Department\u2019s civil rights office is so controversial", 
+            "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/01/18/why-trumps-pick-to-head-the-education-departments-civil-rights-office-is-so-controversial/"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "Poll: Deep partisan divide among Americans over Israel", 
+            "url": "https://www.washingtonpost.com/world/middle_east/poll-deep-partisan-divide-among-americans-over-israel/2018/01/23/b56aaa3c-0046-11e8-86b9-8908743c79dd_story.html"
+        }, 
+        {
+            "source": "CNN", 
+            "title": "Courts were unfair to boy who brought clock to school", 
+            "url": "https://www.cnn.com/2018/03/22/opinions/ahmed-mohamed-discrimination-school-court-opinion-iyer/index.html"
+        }, 
+        {
+            "source": "BBC News", 
+            "title": "University of Hull beats Oxbridge in equality ranking", 
+            "url": "http://www.bbc.co.uk/news/education-43643939"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "Latest federal diversity report from OPM shows little or no progress and some regression", 
+            "url": "https://www.washingtonpost.com/news/powerpost/wp/2018/04/02/latest-federal-diversity-report-from-opm-shows-little-or-no-progress-and-some-regression/"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Google Memo Author Sues, Claiming Bias Against White Conservative Men", 
+            "url": "https://www.nytimes.com/2018/01/08/technology/google-memo-discrimination-lawsuit.html"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Here\u2019s What You Need to Know About Online Testing for the ACT and SAT", 
+            "url": "https://www.nytimes.com/2018/04/05/education/learning/tests-act-sat.html"
+        }, 
+        {
             "source": "BBC News", 
             "title": "Maxine Peake appointed honorary professor", 
             "url": "http://www.bbc.co.uk/news/uk-england-manchester-42788459"
         }, 
         {
-          "source": "CNN",
-          "title": "Oscar nominee 'A Fantastic Woman' bridges cultural divide",
-          "url": "https://www.cnn.com/2018/02/02/entertainment/a-fantastic-woman-review/index.html"
-        },
-      {
-        "source": "The Washington Post",
-        "title": "Why education matters to your health \u2014 literally",
-        "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/05/05/why-education-matters-to-your-health-literally/"
-      },
-      {
-        "source": "Al Jazeera English",
-        "title": "Gerry Adams: A significant figure or cult leader?",
-        "url": "http://www.aljazeera.com/indepth/features/gerry-adams-significant-figure-cult-leader-180208105453734.html"
-      },
-      {
-        "source": "CNN",
-        "title": "Why Apple struggles to get more iPads in schools",
-        "url": "http://money.cnn.com/2018/03/29/technology/apple-ipad-schools/index.html"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Why This Tech Executive Says Her Plan to Disrupt Education Is Different",
-        "url": "https://www.nytimes.com/2018/02/28/world/australia/school-tech-lumineer-academy-susan-wu.html"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "What parents should know right now about online learning",
-        "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/03/26/what-parents-should-know-right-now-about-online-learning/"
-      },
-      {
+            "source": "CNN", 
+            "title": "Oscar nominee 'A Fantastic Woman' bridges cultural divide", 
+            "url": "https://www.cnn.com/2018/02/02/entertainment/a-fantastic-woman-review/index.html"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "Why education matters to your health \u2014 literally", 
+            "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/05/05/why-education-matters-to-your-health-literally/"
+        }, 
+        {
+            "source": "CNN", 
+            "title": "Why Apple struggles to get more iPads in schools", 
+            "url": "http://money.cnn.com/2018/03/29/technology/apple-ipad-schools/index.html"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Why This Tech Executive Says Her Plan to Disrupt Education Is Different", 
+            "url": "https://www.nytimes.com/2018/02/28/world/australia/school-tech-lumineer-academy-susan-wu.html"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "What parents should know right now about online learning", 
+            "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/03/26/what-parents-should-know-right-now-about-online-learning/"
+        }, 
+        {
             "source": "BBC News", 
             "title": "'Significant cuts' in education roles in Highlands proposed", 
             "url": "http://www.bbc.co.uk/news/uk-scotland-highlands-islands-42703701"
         }, 
         {
-          "source": "Bloomberg",
-          "title": "Czechs Vote for President as Ties With EU, Russia in Spotlight",
-          "url": "https://www.bloomberg.com/news/articles/2018-01-25/czechs-vote-for-president-as-ties-with-eu-russia-in-spotlight"
-        },
-      {
-        "source": "Bloomberg",
-        "title": "First Australians See Slow Progress in Bid for Economic Equality",
-        "url": "https://www.bloomberg.com/news/articles/2018-02-12/first-australians-see-slow-progress-in-bid-for-economic-equality"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Linda Brown\u2019s death is a reminder of how much segregation still exists in America\u2019s schools",
-        "url": "https://www.washingtonpost.com/news/the-fix/wp/2018/03/27/linda-browns-death-is-a-reminder-of-how-much-segregation-still-exists-in-americas-schools/"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "White House press secretary\u2019s tweet reminds us that the black-white wealth gap is still very real",
-        "url": "https://www.washingtonpost.com/news/the-fix/wp/2018/02/01/white-house-press-secretarys-tweet-reminds-us-that-the-black-white-wealth-gap-is-still-very-real/"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Why the poor don\u2019t vote to soak the rich",
-        "url": "https://www.washingtonpost.com/news/monkey-cage/wp/2018/02/27/why-the-poor-dont-vote-to-soak-the-rich/"
-      },
-      {
-        "source": "The New York Times",
-        "title": "On Campus: Ruth Simmons on Cultivating the Next Generation of College Students",
-        "url": "https://www.nytimes.com/2018/02/28/opinion/hbcu-ruth-simmons-interview.html"
-      },
-      {
+            "source": "Bloomberg", 
+            "title": "Czechs Vote for President as Ties With EU, Russia in Spotlight", 
+            "url": "https://www.bloomberg.com/news/articles/2018-01-25/czechs-vote-for-president-as-ties-with-eu-russia-in-spotlight"
+        }, 
+        {
+            "source": "Bloomberg", 
+            "title": "First Australians See Slow Progress in Bid for Economic Equality", 
+            "url": "https://www.bloomberg.com/news/articles/2018-02-12/first-australians-see-slow-progress-in-bid-for-economic-equality"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "White House press secretary\u2019s tweet reminds us that the black-white wealth gap is still very real", 
+            "url": "https://www.washingtonpost.com/news/the-fix/wp/2018/02/01/white-house-press-secretarys-tweet-reminds-us-that-the-black-white-wealth-gap-is-still-very-real/"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "Linda Brown\u2019s death is a reminder of how much segregation still exists in America\u2019s schools", 
+            "url": "https://www.washingtonpost.com/news/the-fix/wp/2018/03/27/linda-browns-death-is-a-reminder-of-how-much-segregation-still-exists-in-americas-schools/"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "Why the poor don\u2019t vote to soak the rich", 
+            "url": "https://www.washingtonpost.com/news/monkey-cage/wp/2018/02/27/why-the-poor-dont-vote-to-soak-the-rich/"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Bulletin Board", 
+            "url": "https://www.nytimes.com/2018/04/05/education/learning/bulletin-board.html"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "On Campus: Ruth Simmons on Cultivating the Next Generation of College Students", 
+            "url": "https://www.nytimes.com/2018/02/28/opinion/hbcu-ruth-simmons-interview.html"
+        }, 
+        {
             "source": "BBC News", 
             "title": "First class", 
             "url": "http://www.bbc.co.uk/news/business-42572139"
         }, 
         {
-          "source": "The New York Times",
-          "title": "Op-Ed Columnist: Will Betsy DeVos Expand the School-to-Prison Pipeline?",
-          "url": "https://www.nytimes.com/2018/03/12/opinion/devos-school-prison-pipeline.html"
-        },
-      {
+            "source": "The New York Times", 
+            "title": "Op-Ed Columnist: Will Betsy DeVos Expand the School-to-Prison Pipeline?", 
+            "url": "https://www.nytimes.com/2018/03/12/opinion/devos-school-prison-pipeline.html"
+        }, 
+        {
             "source": "BBC News", 
             "title": "Two more Scottish universities to offer teacher training", 
             "url": "http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-43274298"
         }, 
         {
-          "source": "The Washington Post",
-          "title": "Why you are wrong if you think creative writing is a \u2018frivolous waste of time\u2019",
-          "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/01/28/why-you-are-wrong-if-you-think-creative-writing-is-a-frivolous-waste-of-time/"
-        },
-      {
-        "source": "The Washington Post",
-        "title": "Nine controversial \u2014 and highly revealing \u2014 things Betsy DeVos has said",
-        "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/03/12/nine-controversial-and-highly-revealing-things-betsy-devos-has-said/"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Op-Docs: Black Colleges in the Age of Trump",
-        "url": "https://www.nytimes.com/2018/01/16/opinion/black-colleges-universities-hbcus-trump.html"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Betsy DeVos: Nothing Presidents Barack Obama or George W. Bush did in education reform really worked",
-        "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/01/16/betsy-devos-nothing-presidents-barack-obama-or-george-w-bush-did-in-education-reform-really-worked/"
-      },
-      {
-        "source": "Bloomberg",
-        "title": "Five Must-Read Studies From the Big Economics Confab: Eco Pulse",
-        "url": "https://www.bloomberg.com/news/articles/2018-01-09/five-must-read-studies-from-the-big-economics-confab-eco-pulse"
-      },
-      {
-        "source": "Bloomberg",
-        "title": "Need Faster Growth? Spend More on Educating India's Children",
-        "url": "https://www.bloomberg.com/news/articles/2018-02-02/need-faster-growth-spend-more-on-educating-india-s-children"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Even in Family-Friendly Scandinavia, Mothers Are Paid Less",
-        "url": "https://www.nytimes.com/2018/02/05/upshot/even-in-family-friendly-scandinavia-mothers-are-paid-less.html"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Dr. Arnold Gold, 92, Dies; Made Compassionate Care a Cause",
-        "url": "https://www.nytimes.com/2018/02/02/obituaries/dr-arnold-gold-92-dies-made-compassionate-care-a-cause.html"
-      },
-      {
-        "source": "CNN",
-        "title": "Education Department says it is no longer investigating transgender bathroom complaints",
-        "url": "https://www.cnn.com/2018/02/12/politics/education-department-transgender-bathroom-complaints/index.html"
-      },
-      {
-        "source": "The Economist",
-        "title": "Men and women in economics have different opinions",
-        "url": "https://www.economist.com/news/finance-and-economics/21737070-male-economists-are-both-more-right-wing-and-more-senior-men-and-women-economics"
-      },
-      {
+            "source": "The Washington Post", 
+            "title": "Why you are wrong if you think creative writing is a \u2018frivolous waste of time\u2019", 
+            "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/01/28/why-you-are-wrong-if-you-think-creative-writing-is-a-frivolous-waste-of-time/"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "Nine controversial \u2014 and highly revealing \u2014 things Betsy DeVos has said", 
+            "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/03/12/nine-controversial-and-highly-revealing-things-betsy-devos-has-said/"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Op-Docs: Black Colleges in the Age of Trump", 
+            "url": "https://www.nytimes.com/2018/01/16/opinion/black-colleges-universities-hbcus-trump.html"
+        }, 
+        {
+            "source": "The Washington Post", 
+            "title": "Betsy DeVos: Nothing Presidents Barack Obama or George W. Bush did in education reform really worked", 
+            "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/01/16/betsy-devos-nothing-presidents-barack-obama-or-george-w-bush-did-in-education-reform-really-worked/"
+        }, 
+        {
+            "source": "Bloomberg", 
+            "title": "Five Must-Read Studies From the Big Economics Confab: Eco Pulse", 
+            "url": "https://www.bloomberg.com/news/articles/2018-01-09/five-must-read-studies-from-the-big-economics-confab-eco-pulse"
+        }, 
+        {
+            "source": "Bloomberg", 
+            "title": "Need Faster Growth? Spend More on Educating India's Children", 
+            "url": "https://www.bloomberg.com/news/articles/2018-02-02/need-faster-growth-spend-more-on-educating-india-s-children"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Even in Family-Friendly Scandinavia, Mothers Are Paid Less", 
+            "url": "https://www.nytimes.com/2018/02/05/upshot/even-in-family-friendly-scandinavia-mothers-are-paid-less.html"
+        }, 
+        {
+            "source": "The New York Times", 
+            "title": "Dr. Arnold Gold, 92, Dies; Made Compassionate Care a Cause", 
+            "url": "https://www.nytimes.com/2018/02/02/obituaries/dr-arnold-gold-92-dies-made-compassionate-care-a-cause.html"
+        }, 
+        {
+            "source": "CNN", 
+            "title": "Education Department says it is no longer investigating transgender bathroom complaints", 
+            "url": "https://www.cnn.com/2018/02/12/politics/education-department-transgender-bathroom-complaints/index.html"
+        }, 
+        {
             "source": "BBC News", 
             "title": "Success for student nursing baby in exam", 
             "url": "http://www.bbc.co.uk/news/world-asia-43485751"
         }, 
         {
-          "source": "The Washington Post",
-          "title": "A school targeting the opportunity gap \u2014 not the achievement gap. Watch the video.",
-          "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/03/04/a-school-targeting-the-opportunity-gap-not-the-achievement-gap-watch-the-video/"
-        },
-      {
+            "source": "The Washington Post", 
+            "title": "A school targeting the opportunity gap \u2014 not the achievement gap. Watch the video.", 
+            "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/03/04/a-school-targeting-the-opportunity-gap-not-the-achievement-gap-watch-the-video/"
+        }, 
+        {
             "source": "BBC News", 
             "title": "Northern children 'too often left behind', says commissioner", 
             "url": "http://www.bbc.co.uk/news/education-43500164"
         }, 
         {
-          "source": "Bloomberg",
-          "title": "U.S. Pastor Officially Charged With Aiding Turkey's Top Enemies",
-          "url": "https://www.bloomberg.com/news/articles/2018-03-20/u-s-pastor-officially-charged-with-aiding-turkey-s-top-enemies"
-        },
-      {
-        "source": "The Washington Post",
-        "title": "Trump and DeVos love \u2018Education Savings Accounts.\u2019 You should know how they really work.",
-        "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/02/12/trump-and-devos-love-education-savings-accounts-you-should-know-how-they-really-work/"
-      },
-      {
-        "source": "Bloomberg",
-        "title": "Kim's Smiling Sister Exploits Trump-Moon Divide",
-        "url": "https://www.bloomberg.com/news/articles/2018-02-11/kim-s-smiling-sister-exploits-trump-moon-divide-over-north-korea"
-      },
-      {
-        "source": "CNN",
-        "title": "Ginsburg's comments show how much she understands oppression",
-        "url": "https://www.cnn.com/2018/01/23/opinions/ruth-bader-ginsburg-me-too-black-lives-matter-coates-opinion/index.html"
-      },
-      {
-        "source": "The Economist",
-        "title": "Indian teaching startups make work for idle thumbs",
-        "url": "https://www.economist.com/news/business/21737096-byjus-has-900000-paid-users-and-investment-sequoia-capital-and-chinas-tencent-indian"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Op-Ed Columnist: While You Were Sleeping",
-        "url": "https://www.nytimes.com/2018/01/16/opinion/while-you-were-sleeping.html"
-      },
-      {
-        "source": "The Economist",
-        "title": "Britain has become one of the world\u2019s biggest education laboratories",
-        "url": "https://www.economist.com/news/britain/21739671-third-its-schools-have-taken-part-randomised-controlled-trials-struggle-getting"
-      },
-      {
-        "source": "CNN",
-        "title": "The rights of disabled Americans are under attack",
-        "url": "https://www.cnn.com/2018/02/14/opinions/disability-access-under-attack-trump-hr-620-cokley-opinion/index.html"
-      },
-      {
-        "source": "The Economist",
-        "title": "Indian teaching startups make work for idle thumbs",
-        "url": "https://www.economist.com/news/business/21737096-byjus-has-700000-paid-users-and-investment-sequoia-capital-and-chinas-tencent-indian"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Welcome to New York, and Here\u2019s a To-Do List",
-        "url": "https://www.nytimes.com/2018/04/02/nyregion/nyc-school-chancellor-richard-carranza.html"
-      },
-      {
-        "source": "CNN",
-        "title": "Thousands of Uyghur Muslims detained in Chinese 'political education' camps",
-        "url": "https://www.cnn.com/2018/02/02/asia/china-xinjiang-detention-camps-intl/index.html"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Facial Recognition Is Accurate, if You\u2019re a White Guy",
-        "url": "https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html"
-      },
-      {
-        "source": "Bloomberg",
-        "title": "WeWork Is Turning Its Offices Into Study Halls",
-        "url": "https://www.bloomberg.com/news/articles/2018-01-22/wework-is-turning-its-offices-into-study-halls"
-      },
-      {
-        "source": "CBS News",
-        "title": "Hawaii false missile alert: FCC blames inadequate safeguards, human error",
-        "url": "https://www.cbsnews.com/news/hawaii-false-missile-alert-human-error-inadequate-safeguards-blamed/"
-      },
-      {
-        "source": "CNN",
-        "title": "I went from rural Nigeria to an MIT-backed startup -- with a Nokia phone",
-        "url": "http://www.cnn.com/2018/01/12/africa/rural-nigeria-lagos-mit-startup/index.html"
-      },
-      {
-        "source": "MSNBC",
-        "title": "Education Secretary struggles with the basics",
-        "url": "https://www.msnbc.com/ali-velshi/watch/education-secretary-struggles-with-the-basics-1184023619601"
-      },
-      {
-        "source": "CNN",
-        "title": "How psychiatrists can best help our country in the 2018 election",
-        "url": "https://www.cnn.com/2018/02/01/opinions/psychiatrist-help-country-2018-midterm-elections-klitzman-opinion/index.html"
-      },
-      {
-        "source": "CNN",
-        "title": "How psychiatrists can best help our country in the 2018 election",
-        "url": "https://www.cnn.com/2018/02/01/opinions/psychiatrist-help-country-2018-midterm-elections-klitzman-opinion/index.html"
-      },
-      {
-        "source": "The Economist",
-        "title": "Why governments have overestimated the economic returns of higher education",
-        "url": "https://www.economist.com/blogs/economist-explains/2018/03/economist-explains-0"
-      },
-      {
-        "source": "CNN",
-        "title": "Black unemployment is at a record low. But there's a lot more to the story.",
-        "url": "http://money.cnn.com/2018/01/23/news/economy/black-unemployment/index.html"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Contributing Op-Ed Writer: The Misguided Drive to Measure \u2018Learning Outcomes\u2019",
-        "url": "https://www.nytimes.com/2018/02/23/opinion/sunday/colleges-measure-learning-outcomes.html"
-      },
-      {
-        "source": "The New York Times",
-        "title": "The #MeToo Moment: Parsing the Generational Divide - New York Times",
-        "url": "https://www.nytimes.com/2018/01/17/us/the-metoo-moment-parsing-the-generational-divide.html"
-      },
-      {
-            "source": "BBC News",
-        "title": "Lack of good religious education \u2018leaves pupils at risk\u2019",
-        "url": "http://www.bbc.co.uk/news/education-43073161"
+            "source": "Bloomberg", 
+            "title": "U.S. Pastor Officially Charged With Aiding Turkey's Top Enemies", 
+            "url": "https://www.bloomberg.com/news/articles/2018-03-20/u-s-pastor-officially-charged-with-aiding-turkey-s-top-enemies"
         }, 
         {
-            "source": "BBC News", 
-            "title": "How Northern students see North-South education gap", 
-            "url": "http://www.bbc.co.uk/news/av/uk-43547542/how-northern-students-see-north-south-education-gap"
+            "source": "The Washington Post", 
+            "title": "Trump and DeVos love \u2018Education Savings Accounts.\u2019 You should know how they really work.", 
+            "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/02/12/trump-and-devos-love-education-savings-accounts-you-should-know-how-they-really-work/"
         }, 
         {
-            "source": "BBC News", 
-            "title": "Hinds says schools face digital challenge", 
-            "url": "http://www.bbc.co.uk/news/education-42781375"
+            "source": "Bloomberg", 
+            "title": "Kim's Smiling Sister Exploits Trump-Moon Divide", 
+            "url": "https://www.bloomberg.com/news/articles/2018-02-11/kim-s-smiling-sister-exploits-trump-moon-divide-over-north-korea"
         }, 
         {
-          "source": "Bloomberg",
-          "title": "Equity Market Minute: March 26th",
-          "url": "https://www.bloomberg.com/professional/blog/equity-market-minute-march-26th-2018/"
-        },
-      {
-        "source": "The Washington Post",
-        "title": "India tried to stop cheating in school \u2014 so half a million students just skipped exams",
-        "url": "https://www.washingtonpost.com/news/worldviews/wp/2018/02/09/india-tried-to-stop-cheating-in-school-so-half-a-million-students-just-skipped-exams/"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Op-Ed Contributor: How C.E.O.s Should Spend Their Tax Cuts",
-        "url": "https://www.nytimes.com/2018/02/08/opinion/ceo-tax-cuts.html"
-      },
-      {
-        "source": "The Economist",
-        "title": "How to read North Korea\u2019s offer of talks",
-        "url": "https://www.economist.com/blogs/democracyinamerica/2018/03/possible-progress-0"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Op-Ed Columnist: Javanka vs. the Klossy Posse",
-        "url": "https://www.nytimes.com/2018/03/31/opinion/sunday/kushner-kloss-trump.html"
-      },
-      {
-        "source": "The New York Times",
-        "title": "The Unmet Promise Of Equality",
-        "url": "https://www.nytimes.com/interactive/2018/02/28/opinion/the-unmet-promise-of-equality.html"
-      },
-      {
-        "source": "The Economist",
-        "title": "School choice does not work as well as its advocates hope",
-        "url": "https://www.economist.com/news/united-states/21737522-treating-schools-investor-treats-portfolio-might-work-better-school-choice-does-not"
-      },
-      {
-        "source": "The New York Times",
-        "title": "The Pour: A Museum Bridges the Divide Between Two Bordeaux",
-        "url": "https://www.nytimes.com/2018/02/15/dining/wine-museum-bordeaux-la-cite-du-vin.html"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Antiabortion activist abruptly steps down as head of HHS's family planning division - Washington Post",
-        "url": "https://www.washingtonpost.com/news/powerpost/wp/2018/01/12/antiabortion-activist-to-step-down-as-head-of-hhss-family-planning-division/"
+            "source": "CNN", 
+            "title": "Ginsburg's comments show how much she understands oppression", 
+            "url": "https://www.cnn.com/2018/01/23/opinions/ruth-bader-ginsburg-me-too-black-lives-matter-coates-opinion/index.html"
         }, 
         {
-            "source": "BBC News", 
-            "title": "Grammar school success 'down to privilege' - study", 
-            "url": "http://www.bbc.co.uk/news/education-43542565"
+            "source": "The New York Times", 
+            "title": "Op-Ed Columnist: While You Were Sleeping", 
+            "url": "https://www.nytimes.com/2018/01/16/opinion/while-you-were-sleeping.html"
         }, 
         {
-            "source": "BBC News", 
-            "title": "University place demand to grow by 300,000 by 2030", 
-            "url": "http://www.bbc.co.uk/news/education-43399089"
+            "source": "CNN", 
+            "title": "The rights of disabled Americans are under attack", 
+            "url": "https://www.cnn.com/2018/02/14/opinions/disability-access-under-attack-trump-hr-620-cokley-opinion/index.html"
         }, 
         {
-          "source": "The New York Times",
-          "title": "Landon Donovan\u2019s Continuing Education",
-          "url": "https://www.nytimes.com/2018/03/23/sports/soccer/landon-donovan-mexico.html"
-        },
-      {
-        "source": "Bloomberg",
-        "title": "Political Fight Over Two Dead Women Drives Italian Election Rift",
-        "url": "https://www.bloomberg.com/news/articles/2018-02-13/political-fight-over-two-dead-women-drives-italian-election-rift"
-      },
-      {
-            "source": "BBC News", 
-            "title": "'I couldn't mourn my grandmother because I had my period'", 
-            "url": "http://www.bbc.co.uk/news/stories-42608302"
+            "source": "The New York Times", 
+            "title": "Refreshing Your Career to Gain New Opportunities", 
+            "url": "https://www.nytimes.com/2018/04/05/education/learning/retraining-new-career.html"
         }, 
         {
-          "source": "CNN",
-          "title": "Appeals court OKs suit charging Tinder bias against older users",
-          "url": "http://money.cnn.com/2018/02/01/technology/tinder-age-discrimination/index.html"
-        },
-      {
-        "source": "The Washington Post",
-        "title": "Is college worth it? One professor says no.",
-        "url": "https://www.washingtonpost.com/business/why-higher-education-has-little-incentive-to-deliver-better-value/2018/03/08/a02684e0-224a-11e8-94da-ebf9d112159c_story.html"
-      },
-      {
-            "source": "BBC News", 
-            "title": "Could broadcasting school lessons solve Africa's education crisis?", 
-            "url": "http://www.bbc.co.uk/news/av/42820917/could-broadcasting-school-lessons-solve-africa-s-education-crisis"
+            "source": "CNN", 
+            "title": "Thousands of Uyghur Muslims detained in Chinese 'political education' camps", 
+            "url": "https://www.cnn.com/2018/02/02/asia/china-xinjiang-detention-camps-intl/index.html"
         }, 
         {
-          "source": "The Economist",
-          "title": "The trouble with open v closed",
-          "url": "https://www.economist.com/news/britain/21739152-division-said-have-replaced-left-v-right-too-self-serving-comfort"
-        },
-      {
-        "source": "Bloomberg",
-        "title": "Google Sued by Ex-Recruiter Over Alleged Anti-White, Asian Bias",
-        "url": "https://www.bloomberg.com/news/articles/2018-03-01/google-sued-by-ex-recruiter-over-alleged-anti-white-asian-bias"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Facebook picture helps Afghan woman achieve dream of college",
-        "url": "https://www.washingtonpost.com/world/asia_pacific/facebook-picture-helps-afghan-woman-achieve-dream-of-college/2018/04/01/108e04c8-3593-11e8-af3c-2123715f78df_story.html"
-      },
-      {
-        "source": "Al Jazeera English",
-        "title": "How an education crisis is hurting Morocco's poor",
-        "url": "https://www.aljazeera.com/indepth/features/education-crisis-hurting-morocco-poor-180306225706337.html"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Op-Ed Columnist: In Praise of Privilege",
-        "url": "https://www.nytimes.com/2018/03/26/opinion/privilege-gun-control-rally.html"
-      },
-      {
-        "source": "CBS News",
-        "title": "Betsy DeVos defends herself against critics",
-        "url": "https://www.cbsnews.com/news/secretary-of-education-betsy-devos-on-guns-school-choice-and-why-people-dont-like-her/"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Education Secretary DeVos blames D.C. graduation scandal on \u2018top-down pressure\u2019 and fear of \u2018Big Ed\u2019",
-        "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/03/05/education-secretary-devos-blames-d-c-graduation-scandal-on-top-down-pressure-and-fear-of-big-ed/"
-      },
-      {
-        "source": "CNN",
-        "title": "Wearing black to the State of the Union isn't enough",
-        "url": "https://www.cnn.com/2018/01/27/opinions/sex-ed-sotu-me-too-cushman-opinion/index.html"
-      },
-      {
-            "source": "BBC News", 
-            "title": "Damian Hinds to cut workload to tackle teacher shortage", 
-            "url": "http://www.bbc.co.uk/news/education-43345857"
+            "source": "The New York Times", 
+            "title": "Welcome to New York, and Here\u2019s a To-Do List", 
+            "url": "https://www.nytimes.com/2018/04/02/nyregion/nyc-school-chancellor-richard-carranza.html"
         }, 
         {
-          "source": "CNN",
-          "title": "The words we use to talk about the gender pay gap",
-          "url": "http://money.cnn.com/2018/01/22/pf/words-gender-pay-gap/index.html"
-        },
-      {
-        "source": "The New York Times",
-        "title": "Opinion: Why Do You Say You\u2019re Black?",
-        "url": "https://www.nytimes.com/2018/01/27/opinion/sunday/why-do-you-say-youre-black.html"
-      },
-      {
-        "source": "CBS News",
-        "title": "5 top takeaways from Davos 2018",
-        "url": "https://www.cbsnews.com/news/ketchum-barri-rafferty-5-takeaways-from-davos-2018-world-economic-forum/"
-      },
-      {
-            "source": "BBC News", 
-            "title": "Sarajevo\u2019s choir that bridged the ethnic divide", 
-            "url": "http://www.bbc.co.uk/news/av/stories-43472897/sarajevo-s-choir-that-bridged-the-ethnic-divide"
+            "source": "The New York Times", 
+            "title": "Facial Recognition Is Accurate, if You\u2019re a White Guy", 
+            "url": "https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html"
         }, 
         {
-          "source": "The Washington Post",
-          "title": "Free tampons for girls, an end to \u2018meal shaming\u2019 \u2014 and more in new state laws affecting schools",
-          "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/01/06/free-tampons-for-girls-an-end-to-meal-shaming-and-more-in-new-state-laws-affecting-schools/"
-        },
-      {
-        "source": "The Washington Post",
-        "title": "A bright spot for Republicans among millennials: Young white men - Washington Post",
-        "url": "https://www.washingtonpost.com/news/politics/wp/2018/03/21/a-bright-spot-for-republicans-among-millennials-young-white-men/"
-      },
-      {
-        "source": "Al Jazeera English",
-        "title": "UN raises concern over human rights in UAE",
-        "url": "http://www.aljazeera.com/news/2018/01/raises-concern-human-rights-uae-180110045834391.html"
-      },
-      {
-            "source": "BBC News", 
-            "title": "Closing the gap", 
-            "url": "http://www.bbc.co.uk/news/uk-scotland-43581665"
+            "source": "Bloomberg", 
+            "title": "WeWork Is Turning Its Offices Into Study Halls", 
+            "url": "https://www.bloomberg.com/news/articles/2018-01-22/wework-is-turning-its-offices-into-study-halls"
         }, 
         {
-          "source": "The New York Times",
-          "title": "Black Colleges Swept Up in For-Profit Crackdown Find Relief From DeVos",
-          "url": "https://www.nytimes.com/2018/01/12/us/politics/black-colleges-borrower-defense-devos.html"
-        },
-      {
-            "source": "BBC News", 
-            "title": "'Unsolvable' exam question leaves Chinese students flummoxed", 
-            "url": "http://www.bbc.co.uk/news/world-asia-china-42857864"
+            "source": "CBS News", 
+            "title": "Hawaii false missile alert: FCC blames inadequate safeguards, human error", 
+            "url": "https://www.cbsnews.com/news/hawaii-false-missile-alert-human-error-inadequate-safeguards-blamed/"
         }, 
         {
-          "source": "The Washington Post",
-          "title": "Peggy Cooper Cafritz, grande dame of the Washington arts and education scene, dies at 70 - Washington Post",
-          "url": "https://www.washingtonpost.com/local/obituaries/peggy-coopercafritz-grande-dame-of-the-washington-arts-and-education-scene-dies-at-70/2018/02/18/0f6bb948-14c1-11e8-92c9-376b4fe57ff7_story.html"
-        },
-      {
-            "source": "BBC News", 
-            "title": "BBC Women: Their pay gap stories", 
-            "url": "http://www.bbc.co.uk/news/entertainment-arts-42872377"
+            "source": "CNN", 
+            "title": "I went from rural Nigeria to an MIT-backed startup -- with a Nokia phone", 
+            "url": "http://www.cnn.com/2018/01/12/africa/rural-nigeria-lagos-mit-startup/index.html"
         }, 
         {
-          "source": "Al Jazeera English",
-          "title": "Why African feminists see Rwanda as role model",
-          "url": "https://www.aljazeera.com/news/2018/03/african-feminists-rwanda-role-model-180309131512102.html"
-        },
-      {
-        "source": "The New York Times",
-        "title": "Sons of Rich Black Families Fare No Better Than Sons of Working-Class Whites",
-        "url": "https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html"
-      },
-      {
-            "source": "BBC News", 
-            "title": "Trudeau bans anti-abortion groups from summer jobs funding", 
-            "url": "http://www.bbc.co.uk/news/world-us-canada-42736530"
+            "source": "MSNBC", 
+            "title": "Education Secretary struggles with the basics", 
+            "url": "https://www.msnbc.com/ali-velshi/watch/education-secretary-struggles-with-the-basics-1184023619601"
         }, 
         {
-          "source": "The New York Times",
-          "title": "In Her Words: Education Secretary Betsy DeVos Assesses a Year on the Job",
-          "url": "https://www.nytimes.com/2018/02/09/us/politics/betsy-devos.html"
-        },
-      {
-        "source": "Bloomberg",
-        "title": "The Capital of America\u2019s Gun Industry Hates Guns",
-        "url": "https://www.bloomberg.com/news/articles/2018-03-09/one-town-makes-and-hates-guns-like-no-other-place-in-u-s"
-      },
-      {
-        "source": "CBS News",
-        "title": "Mattis appears isolated as Trump adds hawkish Bolton to national security team",
-        "url": "https://www.cbsnews.com/news/mattis-appears-isolated-as-trump-adds-hawkish-bolton-to-national-security-team/"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "A big question in the debate about arming teachers: What about racial bias?",
-        "url": "https://www.washingtonpost.com/news/the-fix/wp/2018/02/23/a-big-question-in-the-debate-about-arming-teachers-what-about-racial-bias/"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Opinion: Black With (Some) White Privilege",
-        "url": "https://www.nytimes.com/2018/02/10/opinion/sunday/black-with-some-white-privilege.html"
-      },
-      {
-        "source": "MSNBC",
-        "title": "Disagreement but no Dem divide: Rep. Boyle",
-        "url": "https://www.msnbc.com/morning-joe/watch/disagreement-but-no-democratic-divide-rep-brendan-boyle-1157614659885"
-      },
-      {
-        "source": "CNN",
-        "title": "How to build Wakanda: Lessons for African leaders from Black Panther",
-        "url": "https://www.cnn.com/2018/03/09/africa/building-wakanda-african-leaders/index.html"
-      },
-      {
-            "source": "BBC News", 
-            "title": "School exclusions: Are more children being expelled?", 
-            "url": "http://www.bbc.co.uk/news/uk-43372977"
+            "source": "CNN", 
+            "title": "How psychiatrists can best help our country in the 2018 election", 
+            "url": "https://www.cnn.com/2018/02/01/opinions/psychiatrist-help-country-2018-midterm-elections-klitzman-opinion/index.html"
         }, 
         {
-          "source": "Bloomberg",
-          "title": "Iran's Secret Shunning of a Minority Faith",
-          "url": "https://www.bloomberg.com/view/articles/2018-01-30/iran-s-secret-shunning-of-a-minority-faith"
-        },
-      {
-            "source": "BBC News", 
-            "title": "China's Generation Gap: Beijing", 
-            "url": "http://www.bbc.co.uk/programmes/p05xmyw1"
+            "source": "CNN", 
+            "title": "Black unemployment is at a record low. But there's a lot more to the story.", 
+            "url": "http://money.cnn.com/2018/01/23/news/economy/black-unemployment/index.html"
         }, 
         {
-          "source": "CBS News",
-          "title": "How a failing Atlanta school cut its student turnover rate by nearly half",
-          "url": "https://www.cbsnews.com/news/failing-atlanta-school-cut-its-turnover-rate-in-half-with-help-from-lawyers/"
-        },
-      {
-        "source": "The Washington Post",
-        "title": "New Mexico\u2019s education chief blasted for linking charter schools with \u2018Manifest Destiny\u2019",
-        "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/01/09/new-mexicos-education-chief-blasted-for-linking-charter-schools-with-manifest-destiny/"
-      },
-      {
-        "source": "CNN",
-        "title": "Government watchdog report finds racial disparities in school discipline practices",
-        "url": "https://www.cnn.com/2018/04/04/politics/betsy-devos-racial-disparities-schools/index.html"
-      },
-      {
-            "source": "BBC News", 
-            "title": "Women's 'wage gap' discount at local pub sparks backlash", 
-            "url": "http://www.bbc.co.uk/news/world-us-canada-42627170"
-        }, 
-        {
-            "source": "BBC News", 
-            "title": "UK raises overseas education aid by 50%", 
-            "url": "http://www.bbc.co.uk/news/education-42903824"
-        }, 
-        {
-          "source": "The Washington Post",
-          "title": "What happens to teaching and learning if educators holster 9mm Glocks on their waistband?",
-          "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/02/22/what-happens-to-teaching-and-learning-if-educators-holster-9mm-glocks-on-their-waistband/"
-        },
-      {
-        "source": "The Economist",
-        "title": "For artificial intelligence to thrive, it must explain itself",
-        "url": "https://www.economist.com/news/science-and-technology/21737018-if-it-cannot-who-will-trust-it-artificial-intelligence-thrive-it-must"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Trump\u2019s Black History Month proclamation implies racism in the military is in the past. It\u2019s not.",
-        "url": "https://www.washingtonpost.com/news/the-fix/wp/2018/02/04/trumps-black-history-month-proclamation-implies-racism-in-the-military-is-in-the-past-its-not/"
-      },
-      {
-        "source": "The Economist",
-        "title": "Emmanuel Macron wants to change the beloved baccalaur\u00e9at",
-        "url": "https://www.economist.com/news/europe/21736539-reforming-french-education-will-not-be-easy-emmanuel-macron-wants-change-beloved"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Good news from today's jobs report: The tight labor market is helping to reduce the racial unemployment gap. - Washington Post",
-        "url": "https://www.washingtonpost.com/news/posteverything/wp/2018/01/05/good-news-from-todays-jobs-report-the-tight-labor-market-is-helping-to-reduce-the-racial-unemployment-gap/"
-      },
-      {
-        "source": "CNN",
-        "title": "The gender pay gap for women doctors is big -- and getting worse",
-        "url": "http://money.cnn.com/2018/03/14/news/economy/gender-pay-gap-doctors/index.html"
-      },
-      {
-        "source": "The New York Times",
-        "title": "In Fight Over Science Education in Idaho, Lawmakers Move to Minimize Climate",
-        "url": "https://www.nytimes.com/2018/02/07/climate/idaho-climate-change.html"
-      },
-      {
-        "source": "CBS News",
-        "title": "African-American unemployment hits record low",
-        "url": "https://www.cbsnews.com/news/african-american-unemployment-hits-record-low/"
-      },
-      {
-        "source": "The Economist",
-        "title": "The \u201cgap\u201d between aboriginals and other Australians",
-        "url": "https://www.economist.com/blogs/economist-explains/2018/02/economist-explains-17"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Orange is the new blue: Why India wants to color code its passports",
-        "url": "https://www.washingtonpost.com/news/worldviews/wp/2018/01/15/orange-is-the-new-blue-why-india-wants-to-color-code-its-passports/"
-      },
-      {
-            "source": "BBC News", 
-            "title": "Educational support for deaf children 'in disarray'", 
-            "url": "http://www.bbc.co.uk/news/uk-42604330"
-        }, 
-        {
-          "source": "The New York Times",
-          "title": "After Demanding Local Control, DeVos Finds That It Limits Her Influence",
-          "url": "https://www.nytimes.com/2018/03/09/us/politics/betsy-devos-education-reform-states.html"
-        },
-      {
-        "source": "CNN",
-        "title": "Trump's racism has gone from dog-whistle bigotry to megaphone prejudice",
-        "url": "http://www.cnn.com/2018/01/12/opinions/trump-has-gone-from-dog-whistle-bigotry-to-megaphone-prejudice-opinion-dantonio/index.html"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Why Are Black Students Punished So Often? Minnesota Confronts a National Quandary",
-        "url": "https://www.nytimes.com/2018/03/18/us/politics/school-discipline-disparities-white-black-students.html"
-      },
-      {
-            "source": "BBC News", 
-            "title": "No register for home-schooled children in Wales", 
-            "url": "http://www.bbc.co.uk/news/uk-wales-42863848"
-        }, 
-        {
-          "source": "The Washington Post",
-          "title": "Did Betsy DeVos just trash America\u2019s higher education system?",
-          "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/01/25/did-betsy-devos-just-trash-americas-higher-education-system/"
-        },
-      {
-        "source": "The Washington Post",
-        "title": "Google faces a lawsuit over discriminating against white men and conservatives",
-        "url": "https://www.washingtonpost.com/news/the-switch/wp/2018/01/08/google-faces-a-lawsuit-over-discriminating-against-white-men-and-conservatives/"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Letter: A Human-Centered Artificial Intelligence?",
-        "url": "https://www.nytimes.com/2018/03/19/opinion/artificial-intelligence.html"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "A popular school fundraiser is just \u2018junk-food marketing to kids,\u2019 experts say",
-        "url": "https://www.washingtonpost.com/news/wonk/wp/2018/01/17/experts-say-a-popular-school-fundraiser-is-just-junk-food-marketing-to-kids/"
-      },
-      {
-        "source": "The Economist",
-        "title": "Black boys are the least likely of any group to escape poverty",
-        "url": "https://www.economist.com/blogs/democracyinamerica/2018/04/broken-ladder"
-      },
-      {
-        "source": "The New York Times",
-        "title": "After Years of Fighting, Idaho Retains Climate Change in Its Education Guidelines",
-        "url": "https://www.nytimes.com/2018/02/23/climate/idaho-climate-change-education.html"
-      },
-      {
-        "source": "CBS News",
-        "title": "Betsy DeVos on guns, school choice and why people don't like her",
-        "url": "https://www.cbsnews.com/video/betsy-devos-on-guns-school-choice-and-why-people-dont-like-her/"
-      },
-      {
-        "source": "Bloomberg",
-        "title": "Ogletree Law Firm Accused of Gender Pay Gap in $300 Million Suit",
-        "url": "https://www.bloomberg.com/news/articles/2018-01-16/ogletree-law-firm-accused-of-gender-pay-gap-in-300-million-suit"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Sessions doesn\u2019t understand America",
-        "url": "https://www.washingtonpost.com/blogs/right-turn/wp/2018/01/18/sessions-doesnt-understand-america/"
-      },
-      {
-        "source": "The New York Times",
-        "title": "Op-Ed Columnist: Speaking as a White Male \u2026",
-        "url": "https://www.nytimes.com/2018/03/22/opinion/speaking-as-a-white-male.html"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Mattis appears isolated as Trump adds hawkish Bolton",
-        "url": "https://www.washingtonpost.com/world/national-security/mattis-appears-isolated-as-trump-adds-hawkish-bolton/2018/03/27/cc93352c-3178-11e8-b6bd-0084a1666987_story.html"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "How \u2018segrenomics\u2019 underpins the movement to privatize public education",
-        "url": "https://www.washingtonpost.com/news/answer-sheet/wp/2018/01/19/how-segrenomics-underpins-the-movement-to-privatize-public-education/"
-      },
-      {
-        "source": "BBC News",
-        "title": "MLK anniversary: What's changed in America's most segregated city?",
-        "url": "http://www.bbc.co.uk/news/av/world-us-canada-43623215/mlk-anniversary-what-s-changed-in-america-s-most-segregated-city"
-      },
-      {
-        "source": "The Washington Post",
-        "title": "Trump says he wants to heal the nation\u2019s divide \u2014 though perhaps not as large a divide as during Clinton\u2019s impeachment",
-        "url": "https://www.washingtonpost.com/news/post-politics/wp/2018/01/30/trump-says-he-wants-to-heal-the-nations-divide-though-perhaps-not-as-large-a-divide-as-during-clintons-impeachment/"
-      },
-      {
-            "source": "BBC News", 
-            "title": "Term-time holiday rules stop children taking dance exams", 
-            "url": "http://www.bbc.co.uk/news/uk-43569149"
-        }, 
-        {
-            "source": "BBC News", 
-            "title": "In a hurry? Here's what you need to know this morning", 
-            "url": "http://www.bbc.co.uk/news/uk-42611555"
-        }, 
-        {
-          "source": "CNN",
-          "title": "Frigid Baltimore City schools: The racism we haven't confronted",
-          "url": "http://www.cnn.com/2018/01/04/opinions/winter-racism-education-opinion-carnock/index.html"
-        },
-      {
-        "source": "The New York Times",
-        "title": "Museums Fight the Isolation and Pain of Dementia",
-        "url": "https://www.nytimes.com/2018/03/11/arts/dementia-national-museums-liverpool.html"
-      },
-      {
-        "source": "The New York Times",
-        "title": "AIDS Researcher Robert R. Redfield Named to Lead the C.D.C.",
-        "url": "https://www.nytimes.com/2018/03/21/health/cdc-robert-redfield-aids.html"
-        }, 
-        {
-            "source": "BBC News", 
-            "title": "The Year of AI", 
-            "url": "http://www.bbc.co.uk/news/business-42559967"
+            "source": "The New York Times", 
+            "title": "Contributing Op-Ed Writer: The Misguided Drive to Measure \u2018Learning Outcomes\u2019", 
+            "url": "https://www.nytimes.com/2018/02/23/opinion/sunday/colleges-measure-learning-outcomes.html"
         }
     ]
 }
