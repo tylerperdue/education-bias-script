@@ -94,9 +94,9 @@ class data_collection:
             except KeyError:
                 print "Maximum amount of daily requests reached."
             page_number = page_number + 1
-        json_data = json.dumps(data)
+        json_data = json.dumps(data, indent=4, sort_keys=True)
         with open('web_sources.json', 'w') as outfile:
-            json.dump(data, outfile, indent=4, sort_keys=True)
+            json.dump(data, outfile)
         print "Finished Collecting Articles from News API."
         print str(counter) + " total articles collected."
         return json_data

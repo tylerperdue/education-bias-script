@@ -13,6 +13,21 @@ class word_tools:
                         **kwargs):
         return "hsl(0, 0%%, %d%%)" % random.randint(60, 100)
 
+    def makeTxtofArticleContent(self, inputDictionary):
+        inner_dictionary = inputDictionary["articles"]
+        counter = 0
+        while counter < len(inner_dictionary):
+            a = inner_dictionary[counter]
+            b = a['article']
+            title = a['title'].encode('utf-8').strip()
+            title = re.sub('\W+', '', title)
+            title = title + str('.txt')
+            title = str('IndividualArticles/') + title
+            f = open(title, "w")
+            print >> f, b
+            f.close()
+            counter = counter + 1
+
     def textToWordCount(self, inputDictionary):
         # print inputDictionary
         inner_dictionary = inputDictionary["articles"]

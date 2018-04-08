@@ -72,3 +72,7 @@ if str(raw_input(inputPrompt)) == 'y':
     f = open('word_count_export.json', 'w')
     print >> f, j
     f.close()
+
+inputPrompt = "\nRun Individual Article Text to txt Files Module (y/n):"
+if str(raw_input(inputPrompt)) == 'y':
+    t = word_tools.makeTxtofArticleContent(crawler_export)
