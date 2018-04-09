@@ -65,14 +65,15 @@ else:
 inputPrompt = "\nRun Word Tools Module (y/n):"
 if str(raw_input(inputPrompt)) == 'y':
     word_tools = word_tools()
-    t = word_tools.textToWordCount(crawler_export)
-    t = json.dumps(t, indent=4, sort_keys=True)
-    print 'Exporting Articles to /word_count_export.json'
-    j = t
-    f = open('word_count_export.json', 'w')
-    print >> f, j
-    f.close()
-
-inputPrompt = "\nRun Individual Article Text to txt Files Module (y/n):"
-if str(raw_input(inputPrompt)) == 'y':
-    t = word_tools.makeTxtofArticleContent(crawler_export)
+    inputPrompt = "\n\tRun WordCloud Module (y/n):"
+    if str(raw_input(inputPrompt)) == 'y':
+        t = word_tools.textToWordCount(crawler_export)
+        t = json.dumps(t, indent=4, sort_keys=True)
+        print 'Exporting Articles to /word_count_export.json'
+        j = t
+        f = open('word_count_export.json', 'w')
+        print >> f, j
+        f.close()
+    inputPrompt = "\n\tRun Article Body to txt Files Module (y/n):"
+    if str(raw_input(inputPrompt)) == 'y':
+        t = word_tools.makeTxtofArticleContent(crawler_export)

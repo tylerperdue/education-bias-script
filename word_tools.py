@@ -1,4 +1,4 @@
-import re, json
+import re, json, sys
 from word_tools_wordcloud import word_tools_wordcloud as wc
 import random
 
@@ -26,7 +26,21 @@ class word_tools:
             f = open(title, "w")
             print >> f, b
             f.close()
+            if counter is 0:
+                print "\n\tSUCCESS:\n\t0" + str(counter + 1) + ' ,\t',
+                sys.stdout.write('')
+            else:
+                if counter < 9:
+                    print "0" + str(counter + 1) + " ,\t",
+                    sys.stdout.write('')
+                else:
+                    print counter + 1, ',\t',
+                    sys.stdout.write('')
+                if (counter + 1) % 10 is 0:
+                    print "\n\t",
+                    sys.stdout.write('')
             counter = counter + 1
+        print "\n"
 
     def textToWordCount(self, inputDictionary):
         # print inputDictionary
@@ -61,7 +75,7 @@ class word_tools:
 
         outDict = {}
         try:
-            print "Attempting to import stopWords.txt"
+            print "\tAttempting to import stopWords.txt"
             stopWords = [line.rstrip('\n') for line in open('stopWords.txt')]
         except Exception as ke:
             print "Warning: stopWords.txt was not found - Using Default Stopwords"
@@ -80,7 +94,7 @@ class word_tools:
                          "we've", "were", "what", "what's", "when", "when's", "where", "where's", "which", "while",
                          "who", "who's", "whom", "why", "why's", "with", "would", "you", "you'd", "you'll", "you're",
                          "you've", "your", "yours", "yourself", "yourselves"]
-        minimumTermCount = int(raw_input("Minimum Term Frequency to Count in JSON (Default: 15): ") or "15")
+        minimumTermCount = int(raw_input("\tMinimum Term Frequency to Count in JSON (Default: 15): ") or "15")
         for key in master_frequency:
             if master_frequency[key] > minimumTermCount and key not in stopWords:
                 outDict[key] = master_frequency[key]
@@ -91,20 +105,20 @@ class word_tools:
         print >> f, j
         f.close()
 
-        inputPrompt = "\nCreate Standard WordCloud? (y/n):"
+        inputPrompt = "\n\tCreate Standard WordCloud? (y/n):"
         if (str(raw_input(inputPrompt)) == 'y'):
             wt = wc()
-            print 'Exporting WordCloud to /Visualizations/WordCloud.jpg'
+            print '\tExporting WordCloud to /Visualizations/WordCloud.jpg'
             ot = wt.make_wordcloud(outDict, 'Visualizations/WordCloud.jpg')
 
-        inputPrompt = "\nCreate WordCloud From Image? (y/n):"
+        inputPrompt = "\n\tCreate WordCloud From Image? (y/n):"
         if (str(raw_input(inputPrompt)) == 'y'):
-            print "Directory for Input Images: InputImages/"
-            inputPrompt = "\tJPG Filename (Default: stencil.jpg): "
+            print "\tDirectory for Input Images: InputImages/"
+            inputPrompt = "\t\tJPG Filename (Default: stencil.jpg): "
             filename_in = str(raw_input(inputPrompt) or "stencil.jpg")
             filename = str("InputImages/" + filename_in)
             wt = wc()
-            print 'Exporting WordCloud to /Visualizations/WordCloud_IMG_' + filename_in
+            print '\tExporting WordCloud to /Visualizations/WordCloud_IMG_' + filename_in
             file_out = 'Visualizations/WordCloud_Img_' + filename_in
             ot = wt.make_wordcloud_img(outDict, filename, file_out)
 

@@ -95,8 +95,10 @@ class data_collection:
                 print "Maximum amount of daily requests reached."
             page_number = page_number + 1
         json_data = json.dumps(data, indent=4, sort_keys=True)
-        with open('web_sources.json', 'w') as outfile:
-            json.dump(data, outfile)
+        j = json_data
+        f = open('web_sources.json', 'w')
+        print >> f, j
+        f.close()
         print "Finished Collecting Articles from News API."
         print str(counter) + " total articles collected."
         return json_data

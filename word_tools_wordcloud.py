@@ -41,8 +41,8 @@ class word_tools_wordcloud:
         plt.imshow(the_cloud, interpolation='bilinear')
         plt.axis("off")
 
-        the_cloud = WordCloud(background_color='white', mask=mask_color, relative_scaling=1, margin=8, width=2048,
-                              height=2048, max_words=999, min_font_size=6, mode='RGB',
+        the_cloud = WordCloud(background_color='white', mask=mask_color, relative_scaling=1, margin=8, width=4096,
+                              height=4096, max_words=9999, min_font_size=5, mode='RGB',
                               normalize_plurals=True, color_func=ImageColorGenerator(mask_color)
                               ).generate_from_frequencies(in_dictionary)
 
