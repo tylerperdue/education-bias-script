@@ -16,6 +16,17 @@ class word_tools:
     def makeTxtofArticleContent(self, inputDictionary):
         inner_dictionary = inputDictionary["articles"]
         counter = 0
+        # Remove Directory Contents
+        import os, shutil
+        folder = 'IndividualArticles/'
+        for the_file in os.listdir(folder):
+            file_path = os.path.join(folder, the_file)
+            try:
+                if os.path.isfile(file_path):
+                    os.unlink(file_path)
+            except Exception as e:
+                print(e)
+        # Generate new Content
         while counter < len(inner_dictionary):
             a = inner_dictionary[counter]
             b = a['article']
