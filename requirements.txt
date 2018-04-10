@@ -1,0 +1,7 @@
+beautifulsoup4
+bs4
+html2text
+requests
+urllib3
+wordcloud
+matplotlib
